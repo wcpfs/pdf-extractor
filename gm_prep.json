@@ -714,5 +714,73 @@
     "PZOPSSINTRO3E": {
         "name": "3-FirstSteps3_AVisionOfBetrayal",
         "title": "PZOPSSINTRO3E"
-    }
+    },
+    "PZO9545-1": {
+        "name": "Emerald Spire 1 - The Tower Ruins",
+        "title" : "PZO9545-1"
+    },
+    "PZO9545-2": {
+        "name": "Emerald Spire 2 - The Cellars",
+        "title" : "PZO9545-2"
+    },
+    "PZO9545-3": {
+        "name": "Emerald Spire 3 - Splinterden",
+        "title" : "PZO9545-3"
+    },
+    "PZO9545-4": {
+        "name": "Emerald Spire 4 - Godhome",
+        "title" : "PZO9545-4"
+    },
+    "PZO9545-5": {
+        "name": "Emerald Spire 5 - The Drowned Level",
+        "title" : "PZO9545-5"
+    },
+    "PZO9545-6": {
+        "name": "Emerald Spire 6 - The Clockwork Maze",
+        "title" : "PZO9545-6"
+    },
+    "PZO9545-7": {
+        "name": "Emerald Spire 7 - Shrine of the Awakener",
+        "title" : "PZO9545-7"
+    },
+    "PZO9545-8": {
+        "name": "Emerald Spire 8 - The Circle of Vissk-Thar",
+        "title" : "PZO9545-8"
+    },
+    "PZO9545-9": {
+        "name": "Emerald Spire 9 - The Spire Axis",
+        "title" : "PZO9545-9"
+    },
+    "PZO9545-10": {
+        "name": "Emerald Spire 10 - The Magma Vault",
+        "title" : "PZO9545-10"
+    },
+    "PZO9545-11": {
+        "name": "Emerald Spire 11 - The Tomb of Yarrix",
+        "title" : "PZO9545-11"
+    },
+    "PZO9545-12": {
+        "name": "Emerald Spire 12 - The Automaton Forge",
+        "title" : "PZO9545-12"
+    },
+    "PZO9545-13": {
+        "name": "Emerald Spire 13 - The Pleasure Gardens",
+        "title" : "PZO9545-13"
+    },
+    "PZO9545-14": {
+        "name": "Emerald Spire 14 - The Throne of Azlant",
+        "title" : "PZO9545-14"
+    },
+    "PZO9545-15": {
+        "name": "Emerald Spire 15 - Order and Chaos",
+        "title" : "PZO9545-15"
+    },
+    "PZO9545-16": {
+        "name": "Emerald Spire 16 - The Emerald Root",
+        "title" : "PZO9545-16"
+    },
+    "PZO9545-Special": {
+        "name": "Emerald Spire Special - Landrush Boon",
+        "title" : "PZO9545-Special"
+    },
 }
