@@ -5,13 +5,6 @@ bin_dir=`dirname $abspath`
 root_dir=`dirname $bin_dir`
 app_name=`basename $root_dir`
 
-server="www.windycitypathfinder.com"
-
-mkdir -p gm_prep
-#$bin_dir/generate $root_dir/gm_prep pdf_assets/**/*.pdf > gm_prep.json
-#scp gm_prep.json $server:~/
-#ssh $server 'svc -t ~/apps/wcpfs'
-
 defaults="--acl-public --exclude=.DS_Store"
 bucket=s3://assets.windycitypathfinder.com
 cd $root_dir
