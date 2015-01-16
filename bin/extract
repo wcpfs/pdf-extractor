@@ -12,7 +12,7 @@ if ARGV.length < 1
 end
 
 
-output_dir = 'pdf_data'
+output_dir = '.'
 ARGV.each do |pdf_file|
   STDERR.puts "Processing #{pdf_file}"
   extractor = Extractor.new pdf_file, output_dir
@@ -22,7 +22,7 @@ ARGV.each do |pdf_file|
   extractor.write_images
   STDERR.puts "Writing statblocks"
   extractor.write_statblocks
-  #STDERR.puts "Writing metadata"
-  #extractor.write_chronicle
+  STDERR.puts "Writing metadata"
+  extractor.write_metadata
   STDERR.puts "Done"
 end

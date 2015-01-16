@@ -5,12 +5,10 @@ require 'statblocks'
 require 'json'
 
 class Extractor
-  attr_reader :metadata
   def initialize(pdf_file, base_dir)
     @info = Pdfinfo.new(pdf_file)
     @pdf_file = pdf_file
     @base_dir = base_dir
-    @metadata = {}
   end
 
   def write_images
@@ -34,10 +32,14 @@ class Extractor
   end
 
   def write_metadata
+    File.write(asset_dir('metadata.json'), metadata.to_json)
+  end
+
+  def metadata
     {
       id: scenario_id,
-      title: scenario_id, #legacy
-      filename: File.basename(@pdf_file)
+      filename: File.basename(@pdf_file),
+      pdf_info: @info.to_hash
     }
   end
 
