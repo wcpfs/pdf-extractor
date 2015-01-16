@@ -5,24 +5,55 @@ $LOAD_PATH << File.join(File.dirname(__FILE__), '..', 'lib')
 
 require 'extractor'
 require 'json'
+require 'optparse'
 
-if ARGV.length < 1
-  STDERR.puts "Usage: extract <pdf file> ..."
-  exit 1
+@options = {
+  :output_dir => 'pdf_data'
+}
+optparse = OptionParser.new do |opts|
+  opts.banner = "Usage: extract [options] <pdf file> ..."
+  opts.on('-m', '--metadata', 'Extract metadata') do |c|
+    @options[:metadata] = true
+  end
+  opts.on('-i', '--images', 'Extract images') do |c|
+    @options[:images] = true
+  end
+  opts.on('-s', '--statblocks', 'Extract statblocks') do |c|
+    @options[:statblocks] = true
+  end
+  opts.on('-c', '--chronicle', 'Extract chronicle sheet') do |c|
+    @options[:chronicle] = true
+  end
+  opts.on('-o', '--output DIR', 'Output directory') do |dir|
+    @options[:output_dir] = dir
+  end
+  opts.on( '-h', '--help', 'Display this screen' ) do
+    puts opts
+    exit   
+  end
 end
 
-
-output_dir = '.'
+optparse.parse!
 ARGV.each do |pdf_file|
-  STDERR.puts "Processing #{pdf_file}"
-  extractor = Extractor.new pdf_file, output_dir
-  STDERR.puts "Writing chronicle sheet"
-  extractor.write_chronicle
-  STDERR.puts "Writing images"
-  extractor.write_images
-  STDERR.puts "Writing statblocks"
-  extractor.write_statblocks
-  STDERR.puts "Writing metadata"
-  extractor.write_metadata
-  STDERR.puts "Done"
+  if File.exist? pdf_file
+    STDERR.puts "Processing #{pdf_file}"
+    extractor = Extractor.new pdf_file, @options[:output_dir]
+    if @options[:chronicle]
+      STDERR.puts "Writing chronicle sheet"
+      extractor.write_chronicle
+    end
+    if @options[:images]
+      STDERR.puts "Writing images"
+      extractor.write_images
+    end
+    if @options[:statblocks]
+      STDERR.puts "Writing statblocks"
+      extractor.write_statblocks
+    end
+    if @options[:metadata]
+      STDERR.puts "Writing metadata"
+      extractor.write_metadata
+    end
+    STDERR.puts "Done"
+  end
 end

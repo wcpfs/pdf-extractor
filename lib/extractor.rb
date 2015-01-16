@@ -15,7 +15,7 @@ class Extractor
     output_dir = asset_dir('images')
     FileUtils.mkdir_p(output_dir)
     Kernel.system('pdfimages', '-j', @pdf_file, "#{output_dir}/img")
-    Kernel.system('convert', "#{output_dir}/*.ppm", ".jpg")
+    Kernel.system('convert', "#{output_dir}/*.ppm", "#{output_dir}/img.jpg")
     Dir.glob("#{output_dir}/*.ppm").each { |f| File.delete(f) }
     Dir.glob("#{output_dir}/*.jpg").each do |f| 
       color_count = `identify -format %k #{f}`.to_i

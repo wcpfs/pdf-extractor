@@ -55,5 +55,4 @@ describe StatBlocks do
     expect(words).to_not include "408428"
     expect(words).to_not include "paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011"
   end
-  
 end
