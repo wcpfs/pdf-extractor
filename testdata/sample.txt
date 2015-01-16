@@ -1,0 +1,2276 @@
+
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695243
+1695243
+1695243
+408428
+408428
+408428
+First Steps, Part I:
+First Steps, Part I:
+A Pathfinder Society Scenario for Tier 1
+In Service to Lore
+A Pathfinder Society Introductory Scenario
+In Service to Lore
+By Adam Daigle
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695243
+1695243
+1695243
+408428
+408428
+408428
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695244
+1695244
+1695244
+408429
+408429
+408429
+®
+TM
+First Steps, Part I:
+In Service to Lore
+A Pathfinder Society Introductory Scenario
+Author · Adam Daigle
+Contributing Artists · McLean Kendree, Ryan Portillo,
+Eva Widermann, and Kieran Yanner
+Cartographers · Rob Lazzaretti and Sean MacDonald
+Creative Director · James Jacobs
+Senior Art Director · Sarah Robinson
+Managing Editor · F. Wesley Schneider
+Development Lead · Mark Moreland
+Editing · Christopher Carey
+Editorial Assistance · Jason Bulmahn,
+Stephen Radney-MacFarland, Rob McCreary,
+Patrick Renie, Sean K Reynolds, and James L. Sutter
+Graphic Designer · Andrew Vallas
+Production Specialist · Crystal Frasier
+Publisher · Erik Mona
+Paizo CEO · Lisa Stevens
+Vice President of Operations · Jeffrey Alvarez
+Director of Sales · Pierce Watters
+Finance Manager · Christopher Self
+Staff Accountant · Kunji Sedo
+Technical Director · Vic Wertz
+Pathfinder Society Campaign Manager · Hyrum Savage
+Special Thanks · The Paizo Customer Service,
+Warehouse, and Website Teams
+This product makes use of the Pathfinder Roleplaying Game Core Rulebook, Pathfinder Roleplaying Game Bestiary, and
+Pathfinder Roleplaying Game Advanced Player's Guide. These rules can be found online as part of the Pathfinder
+Roleplaying Game Reference Document at paizo.com/pathfinderRPG/prd.
+Pathfinder Society Introductory Scenario: First Steps, Part I: In Service to Lore is a Pathfinder Society Scenario designed for
+1st-level characters (Tier 1). This scenario is designed for play in the Pathfinder Society Organized Play campaign, but
+can easily be adapted for use with any world. This scenario is compliant with the Open Game License (OGL) and is
+suitable for use with the Pathfinder Roleplaying Game.
+The OGL can be found on page 22 of this product.
+Paizo Publishing, LLC
+7120 185th Ave NE, Ste 120
+Redmond, WA 98052-0577
+paizo.com/pathfindersociety
+Product Identity: The following items are hereby identified as Product Identity, as defined in the Open Game License version 1.0a, Section 1(e), and are not Open
+Content: All trademarks, registered trademarks, proper names (characters, deities, etc.), dialogue, plots, storylines, locations, characters, artwork, and trade dress.
+(Elements that have previously been designated as Open Game Content or are in the public domain are not included in this declaration.)
+Open Content: Except for material designated as Product Identity (see above), the game mechanics of this Paizo Publishing game product are Open Game Content, as
+defined in the Open Gaming License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced
+in any form without written permission.
+Pathfinder Society scenarios are published by Paizo Publishing, LLC under the Open Game License version 1.0a Copyright 2000 Wizards of the Coast, Inc. Paizo
+Publishing, LLC, the Paizo golem logo, Pathfinder, and GameMastery are registered trademarks of Paizo Publishing, LLC; Pathfinder Roleplaying Game, Pathfinder
+Campaign Setting, Pathfinder Player Companion, Pathfinder Module, Pathfinder Society, and Pathfinder Tales are trademarks of Paizo Publishing, LLC. © 2011 Paizo
+Publishing, LLC
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695244
+1695244
+1695244
+408429
+408429
+408429
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695245
+1695245
+1695245
+408430
+408430
+408430
+3
+Where on Golarion?
+In Service to Lore takes place in the teeming metropolis of
+Absalom--the City at the Center of the World. Here the
+Pathfinder Society makes its home, and Pathfinders from
+all over the world consider Absalom a second home, as
+many of their missions take place within the city's walls.
+A settlement of over 300,000 souls, Absalom boasts many
+districts that are virtually cities unto themselves, and PCs
+in this adventure will visit several of them in the course
+of their mission. For more information on Absalom and
+its various districts, check out Pathfinder Campaign Setting:
+Guide to Absalom, available in hobby stores and bookstores
+everywhere and online at paizo.com.
+Isle of
+Kortos
+I
+n
+n
+er
+Sea
+· Absalom
+A gruff, no-nonsense man, Ambrus has little tolerance
+for laziness and often gives young Pathfinders their first
+taste of what being a field agent entails as a way of keeping
+them from staying idle too long.
+Among the various factions allied with the Pathfinder
+Society are five powerful nations locked in a shadow war for
+control of Absalom--Andoran, Cheliax, Osirion, Qadira,
+and Taldor. While the Pathfinder Society has no direct
+interest in this political standstill, they nevertheless
+have much to gain from allying with these powerful
+nations. Though they aren't a recognized political body,
+the Varisian swindlers and smugglers known as the
+Sczarni provide their own support for the Society, acting
+as fences, contacts, or mules when the organization
+P
+athfinders explore Golarion in service to lore.
+This widespread group of treasure hunters, thrill-
+seekers, sages, and voyagers make it their lives'
+work to uncover lost artifacts, map neglected ruins, and
+learn forgotten knowledge. They do these things for the
+sake of lore, as well as for fame. The Pathfinder Society
+publishes the Pathfinder Chronicles, a multi-volume series
+of chapbooks highlighting some of the most amazing
+finds by field agents.
+Pathfinders are part archaeologist, part historian, and
+all adventurer. Many established Pathfinders make their
+own way in the world, following their interests or tracking
+down leads to greater mysteries. These established few
+are still subject to orders from their superiors, but the
+least prestigious tasks are usually reserved for those
+new to the organization. The Society is governed by the
+Decemvirate, 10 anonymous leaders who pull strings
+and guide the organization from Skyreach in the Grand
+Lodge of Absalom. They hand down orders from their
+secret posts to venture-captains, who in turn pass the
+orders to field agents.
+The Society has few rules, but all Pathfinders are
+expected to perform the Three Duties: explore, report,
+and cooperate. Idle Pathfinders are useless to the
+organization, and agents must seek out secrets or further
+their work in exploration of some kind, always growing
+and gathering knowledge. This exploration would be
+worthless if not for frequent reports. Pathfinders must
+send back accounts of their adventures, many of which end
+up published by the Decemvirate. Finally, Pathfinders are
+great heroes from dozens of countries and backgrounds
+with thousands of different motivations and allegiances,
+and the Decemvirate expects that individual Pathfinders
+will not interfere with one another, and absolutely never
+let a conflict between themselves come to blows.
+Despite the mandate to cooperate, Pathfinders have
+myriad motivations and often fall in with similarly
+minded factions within the organization, or external
+groups with close ties to the Society. As fresh new recruits,
+most Pathfinders know only the venture-captains who
+give them their training, especially Ambrus Valsin, the
+man in charge of daily operations in the Grand Lodge.
+First Steps, Part I:
+In Service to Lore
+By Adam Daigle
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695245
+1695245
+1695245
+408430
+408430
+408430
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695246
+1695246
+1695246
+408431
+408431
+408431
+The First Steps Series
+The three-part First Steps series is intended to introduce
+new players and new characters from experienced players
+to the Pathfinder Society, the city of Absalom, and the ten
+factions to which all members of the Pathfinder Society
+Organized Play campaign belong. While each adventure in
+the series is a self-contained story, they are intended to be
+played in order by brand-new PCs without any experience
+or Prestige Points. At the end of the third scenario, A Vision
+of Betrayal, after the PCs have met and done a favor for
+all 10 faction heads, they will be able to choose their PCs'
+allegiance and gain retroactive prestige for the completion
+of the previous two scenarios.
+This series may only be played at the normal advancement
+rate of 3 XP per level, meaning a PC completing the series will
+advance to 2nd level, making the character a bit more sturdy
+for tiered adventuring in normal Pathfinder Society play.
+Pathfinder Society SCENario
+4
+needs to get relics or agents in and out of hostile territory
+unseen. Within the Society itself, fractured groups such
+as the Shadow Lodge, Silver Crusade, and the Lantern
+Lodge each work to ensure the organization's resources
+are applied where they feel they're most needed, be that
+for the betterment of the active field agent, in distant
+Tian Xia, or spreading good deeds throughout the Inner
+Sea.
+A new batch of Pathfinder agents has completed their
+training and now stand fresh and wide-eyed before
+the towering structure of Skyreach awaiting their first
+assignment for the Pathfinder Society. Venture-Captain
+Ambrus Valsin has just the task for them, both to keep
+them relatively safe in the dangerous world beyond, and
+to familiarize them with Absalom, their new home, and
+some of the most influential allies of the Society in the
+City at the Center of the World.
+Summary
+Venture-Captain Ambrus Valsin charges the beginner
+Pathfinders to complete a list of tasks for the Pathfinder
+Society. These small tasks are too simple and menial for
+established agents to deal with, but perfect to test the
+capabilities of new recruits. After a short speech about
+what it takes to be a Pathfinder, Valsin hands the PCs an
+envelope containing the tasks and directions to where
+they are supposed to find their contacts.
+The first task on the list requires the PCs visit a creepy
+curio shop owned by Guaril Karela, a Varisian fence who
+heads the Sczarni crime syndicate in Absalom. He asks
+the group to retrieve a case of books from an "abandoned"
+warehouse. While trying to figure out how to safely
+retrieve the crate, balanced above a hole in the floor of
+the warehouse, dire rats nesting in the building attack
+the PCs.
+The second task sends the PCs to deliver a parcel of
+medicine for the Silver Crusade--a faction of Pathfinders
+dedicated to using the Society's resources to do good and
+help the downtrodden wherever their journeys take them.
+Their leader, the Sarenite paladin Ollysta Zadrian, asks
+the PCs to vet the headmistress of the orphanage where
+the medicine is to be sent. In fact, Auntie Baltwin is a
+cruel old alcoholic, who sells medicinal donations on the
+black market, and puts the children to work for additional
+profit. The canny old woman doesn't make proving her
+wrongdoings easy, and the PCs need keen skills to spot
+illicit behavior.
+The third task introduces the PCs to Amenopheus, the
+Sapphire Sage of Osirion, under the premise of visiting
+his liege to obtain permission to delve the ancestral
+vaults of a prominent family in Sothis. The sage speaks
+in place of the absent noble to whom he serves as advisor,
+granting this privilege only after the PCs solve a puzzle in
+the estate's vault to prove their mettle.
+The fourth task places the PCs in Paracountess Zarta
+Dralneen's uncomfortable embrace. The Chelish envoy
+borrowed an item from the Grand Lodge, and the PCs
+need to retrieve it. The twist: A servant imp snatched the
+magical box and the paracountess trapped the enraged
+creature in her precious bedroom where the creature
+wreaks havoc. The PCs must either defeat or calm the
+imp and get the box back to the Grand Lodge.
+While the Pathfinders move through the city in pursuit
+of their assignments, a group of ruthless adventurers
+hoping to earn some easy gear and start making a name
+for themselves follows the PCs' every move. Although the
+new Pathfinders have a chance to spot these adventurers
+throughout the day, the thugs keep a low profile and
+ambush the PCs as they head back to the Grand Lodge
+after finishing their assignments for the day.
+Getting Started
+Fresh off their induction into the Society and
+the completion of their basic training within the
+organization, the PCs find themselves in the office
+of Ambrus Valsin, the venture-captain in charge of
+daily operations in and around the Grand Lodge. The
+efficient and straightforward chamberlain greets the
+PCs curtly and motions for them to sit before jumping
+straight into their assignment. Read the following to get
+the adventure underway.
+"All right, Pathfinders! Listen up. I know you are new recruits
+eager to make names for yourselves in the organization, but
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695246
+1695246
+1695246
+408431
+408431
+408431
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695247
+1695247
+1695247
+408432
+408432
+408432
+First Steps Part I: In Service to Lore
+5
+The cheapest method of getting around is walking, but
+PCs may wish to rent transportation if they would rather
+relax. Each leg of a journey in a hired coach costs 1 cp, but
+a coach can only carry four people comfortably.
+Keep in mind the limited time available to
+complete the scenario, but feel free to add flavorful
+tidbits about the city as the PCs travel through
+it. Absalom is the largest city in the Inner
+Sea region, and possibly all of Golarion, and
+Pathfinders should get the sense that they
+can find anything and everything within
+its limits.
+As the Pathfinders move about
+the city, they're shadowed by a
+band of thugs, upstart criminals
+looking to get a leg up on their
+own adventures by mugging a
+team of weak Pathfinders who
+they suspect have prime equipment
+and sizable wealth. During the course of
+the adventure, allow the PCs to get a glimpse of one of
+these miscreants. Permit each PC a Perception check as
+the group moves between encounters. Anyone making a
+DC 15 or higher notices one of the thugs watching them
+intently from across a crowded street; as a throng of
+people moves between the PCs and their observer, the
+thug disappears into the crowd. Later in the adventure,
+allow each PC a Sense Motive check. Those that make
+a DC of 15 or higher get the sense that they're being
+watched, but can't pinpoint who or where the sensation
+comes from. Make a note of which PCs succeed at either
+of these checks, as it will come into play in the final
+encounter of the adventure.
+Act 1: A Favor For Thieves
+The first task on the PCs' list is to visit Guaril Karela, head
+of the Absalom-based Sczarni, at his curio shop--The
+Pickled Imp--in the seedy, harborside Docks district.
+1a. The Pickled Imp
+This creepy shop contains myriad odds and ends, most bereft
+of any discernible use. A number of malformed creatures and
+creature parts bob in jars on a long, prominent shelf, a tiny
+fetal devil centered in this macabre lineup. The shopkeeper,
+a greasy-haired Varisian with a thin mustache, shouts from
+behind the cluttered counter:
+"Ah yes, I see the Pathfinders have arrived. I'm glad Ambrus
+was able to lend a few of his new recruits to help me. Please
+come in and let me tell you what I need."
+Looking around as if to be absolutely certain no customers
+are browsing the aisles of knock-off Thuvian burial urns or
+first we need to make sure you are up to snuff and won't get
+yourself killed out there. I have a number of small assignments
+for you and your team, and it would be best if you could
+finish them before the day's end.
+"Every day we get some doe-eyed hopeful or
+some sniveling bootlicker willing to do anything
+to join up with the Pathfinders. Most of them are
+good kids, but not all of them have the salt to
+make it in a world like this. It's rough out there
+and I'm not just talking about the ruins, tombs,
+and wilderness Pathfinders find themselves
+in on missions. We've got people who look
+down their noses at us, folks who think
+we squander our resources, and agents
+who want to take everything we have
+collected. This wealth of knowledge
+and these items of lore make us the
+most powerful organization on the
+planet. That said, since we are fractured
+and widespread, it's difficult for that power
+to light on anything for too long. For every friend of the
+Society, there are two enemies.
+"Your first mission, to test your mettle and loyalties, sends
+you to meet a few people important to the Society living here
+in Absalom. These are other venture-captains or close allies of
+our organization, so follow their orders as you would mine. I've
+prepared a list of things I want you to do. They're not arranged
+in any particular order of importance, but I want them all
+completed as quickly as possible. Only report to me once you
+complete them all. Included in the envelope you hold in your
+hands is the list, complete with the name of your contact, and
+directions to the meeting location."
+Allow the PCs to look over the handout outlining their
+tasks (see page 21). The group may have questions about
+where certain locations are in the city. Since the PCs
+have directions to each meeting site, allow the group to
+use the layout of the city to prioritize their course for
+the day.
+Since the PCs begin in Absalom, allow them to purchase
+any items they may need before the adventure if they
+showed up ill equipped. Venture-Captain Valsin briskly
+deflects any questions, instructing the Pathfinders to see
+their contacts for more information, reminding the PCs
+those contacts are to be treated as authority figures and
+be both respected and obeyed.
+Out and About in Absalom
+The PCs have free reign of Absalom during this scenario,
+and can go to the four appointed locations in any order.
+The PCs may move about Absalom however they wish,
+and should feel free to explore the city as they go from
+district to district performing their assigned duties.
+Ambrus Valsin
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695247
+1695247
+1695247
+408432
+408432
+408432
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695248
+1695248
+1695248
+408433
+408433
+408433
+Ascendant
+Court
+Eastgate
+Absalom
+0 400
+feet
+800
+Foreign
+Quarter
+Ivy
+District
+Precipice
+Quarter
+The Coins
+The Docks
+Petal District
+The
+Puddles
+Westgate
+Wise Quarter
+N
+Pathfinder Society SCENario
+6
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695248
+1695248
+1695248
+408433
+408433
+408433
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695249
+1695249
+1695249
+408434
+408434
+408434
+First Steps Part I: In Service to Lore
+7
+supposed Azlanti porcelain, he begins again.
+"Well met. I am Guaril Karela. A friend of mine has a
+warehouse near here and he received a parcel on behalf of
+me and some of my associates, but there's a problem. See,
+Master Gelbane had to leave town in a hurry and
+our shipment is still waiting at his warehouse.
+Rumor is he ended up in trouble with the law
+and the place was seized. I heard tell from
+someone down at the docks that some creep
+was snooping around his warehouse just the
+other night, so I want to make sure nothing
+of mine was taken. He keeps all kinds of things,
+from beer to nails, in that old pelican, but every
+now and then he stores something really special.
+This is one of those cases.
+"There's a big crate marked with three
+crows arranged in a triangle. Inside that
+crate is a smaller container with a few
+books and papers in it. That's the only parcel
+I'm interested in, and as far as I'm concerned,
+you can help yourself to the rest of the crate.
+Honestly, anything else you want in the place
+too. I'm sure the once things get sorted out, the city will
+seize most everything else anyway.
+"My associates and I often work with the Pathfinders when
+it comes to special relics and documents, getting them in
+and out of ports and across borders where the authorities
+ask too many questions. Most people don't realize what they
+have and frankly many don't deserve to have it, so sometimes
+we help take the goods off their hands. If things work out well
+and you get this done, I'd be glad to talk with you more and
+help you out with any future endeavors, as long as you help
+me out too. I'm good at returning favors, trust me."
+Guaril Karela (CN male human rogue 11) is a well-
+connected Sczarni who has his hands in as many pots as
+Absalom can provide. Based out of such a bustling city,
+Karela keeps his eyes on the harbor and what valuable
+items cross its docks. While friendly enough if you're
+on his good side, this thin Varisian man has a face that
+always seems to be sneering, often tilting his mustache
+like the animated hands of a clock.
+Karela answers any questions the PCs ask with varying
+levels of clarity. Regarding the site of the warehouse,
+he responds with details of the rickety building and its
+entrances. In these answers, feel free to describe the
+warehouse to the PCs before they arrive, as Karela is
+familiar with the place. If any PCs ask personal questions,
+try to identify of his associates, or infer that their task
+may not be entirely legal, he responds only with vague
+answers. If they press him on these points, he tries to
+steer the conversation to other topics or simply ushers
+them out the door, encouraging them to get to their task.
+If anyone gets too aggressive, he reminds them they are
+doing this for Ambrus Valsin and the Pathfinder Society,
+speaking strongly about their duty through clenched
+teeth with narrowed eyes.
+1b. The Pier
+Perched on the end of a long pier fifteen feet
+above the water, the warehouse appears to
+struggle against its own roof, threatening to
+sag into the bay below. No light shines from the
+building's windows and only the movement of
+gulls and pelicans stirs the scene.
+Called pelican warehouses, these
+buildings perch at the end of piers,
+allowing a ship to load and unload
+farther out from the busier docks.
+Many of them either accommodate
+smaller vessels that are in a hurry or
+larger ships unable to find an open
+dock. Rare these days, most pelican
+warehouses lie in disrepair, withered from storms and
+salt, and every year it seems another one falls into the
+harbor. An increased tax on this type of property keeps
+many of the owners from rebuilding and some have
+even relinquished the titles to their small warehouses,
+allowing them to fall into the hands of squatters and
+smugglers--or into the bay itself.
+Smugglers sometimes use small boats to slip under
+the warehouse, sawing a hole in the floor or prying
+boards in the night, and sneaking in to loot the place or
+just drop a crate into their boat from above and paddle
+away in the night.
+The pier this pelican warehouse sits on stretches 100
+feet from the boardwalk and the docks proper, and stands
+15 feet above the water. The planks on the pier are sturdy
+but weathered. A few local fishermen and some kids sit
+scattered along the pier casting nets or bobbing lines into
+the waters below.
+The building looks abandoned and in disrepair. The
+windows are dark and dirty and provide no view into the
+structure's interior. A small boat bobs in the water below,
+tethered to the pier by a stout, salt-crusted rope. The
+warehouse's heavy wooden front door is locked (Disable
+Device DC 15) and the loading door is barred from the
+inside, requiring a DC 22 Strength check to force open. If
+they can get in the right position on the small ledge that
+runs along the sliding doors, multiple PCs can aid the
+Strength check, each adding a +2 to the effort. A hidden
+key sits sandwiched between two rickety slats on the
+building near the doorframe, discoverable with a DC 25
+Perception check.
+Guaril Karela
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695249
+1695249
+1695249
+408434
+408434
+408434
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695250
+1695250
+1695250
+408435
+408435
+408435
+Saltspray Pelican Warehouse
+1 square = 5 feet
+N
+1b 1c
+Pathfinder Society SCENario
+8
+1c. Saltspray Pelican Warehouse
+(CR 1)
+Darkness fills the warehouse, the ambient light from outside
+blocked by a filthy, oily film on the structure's few windows.
+Darting illumination comes from light reflecting off the
+water through a splintered hole in the floor. Throughout the
+warehouse, crates, boxes, and barrels lean against each other
+in vaguely sorted stacks. A lingering smell indicates some of
+the contents are certainly spoiled.
+Perched in the middle of the hole, teetering on split
+planks, sits a large crate stamped with three crows
+arranged in a triangle--the very crate the PCs have
+come to find. Handholds cut into the stout wooden crate
+ring the rim. Other barrels, boxes, and crates sit stacked
+along the walls of the warehouse. Just inside the door
+sits a handful of crates and kegs of beer. Most of these
+smaller crates and barrels contain foodstuffs in various
+states of freshness. Some crates reek of rot. Stacks of
+simple coffins sit against the east wall. The rest of the
+crates stacked along the north and south walls contain
+simple sundries including, but not limited to beer,
+blocks of clay, coffee, coils of rope, dried fish, lead ingots,
+nails, nets, raw cotton, rough wool, spare sails, timber
+planks, various pulleys and tools, and cheap weapons.
+Some of these materials, while certainly valuable, are
+more important to the PCs as tools to help them get
+their real prize.
+A crane, used for loading and unloading boats, clings
+to a rail running the length of the warehouse, hanging 5
+feet below the high ceiling, and can slide out to extend
+past the loading doors along the west wall. PCs can
+use ropes and nets from the warehouse's crates to rig
+the crane and snatch up the crate, but a character must
+venture out onto the teetering beams to tie the knots and
+secure the crate to the harness. In addition to the risks
+posed by the squares surrounding the hole (see Hazard,
+below), walking out on one of the two beams imposes a
+­4 penalty on all related Acrobatics checks and any Reflex
+saves resulting from failure.
+Creatures: Though the warehouse is supposedly
+abandoned, a trio of dire rats has moved in and now nests
+along the north wall. While the PCs search the warehouse
+and formulate a plan to safely get the crate from above the
+hole, the dire rats lie sleeping. Irritated at the intrusion,
+they squeeze through the crates and attack the PCs
+surrounding the hole.
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695250
+1695250
+1695250
+408435
+408435
+408435
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695251
+1695251
+1695251
+408436
+408436
+408436
+First Steps Part I: In Service to Lore
+9
+DC 10 Perception check finds anything mentioned above
+in the warehouse description, while anything more rare or
+valuable than the items listed requires a DC 15 Perception
+check and 5 minutes of searching. The warehouse doesn't
+contain anything magical or any single item worth more
+than 150 gp.
+Treasure: The rescued crate holds a smaller mahogany
+box inside, which contains five books and a few loose sheets
+of paper in a leather folder. The titles and subjects seem
+completely unrelated to each other: Practical Thaumaturgy
+In Accordance with Creation, Geographic Anomalies of the
+Inner Sea, Under Kaer Maga: A Trial and Travel, Physiology of
+Dragons: An Illustrated Reference, Lost Sarusan. The leather
+folder contains cargo manifestos, warehouse inventories,
+and other financial logs from a dozen different merchant
+houses and trade guilds.
+The crate also contains 10 sets of masterwork thieves'
+tools, three flasks of alchemist's fire, a flask of acid, a dozen
+jars of various inks, a footprint book*, adamantine weapon
+blanch*, three bags of powder*, a deck of marked cards*,
+and two sets of average loaded dice*. (Items marked with
+an asterisk may be found in the Advanced Player's Guide.)
+Rewards: If the PCs bring the books in good condition
+to Guaril Karela, give each PC 111 gp.
+Act 2: A Crusade Of Light
+The second task on the PCs' list is to head to the Temple
+of the Shining Star, the Ascendant Court's massive temple
+to Sarenrae, to meet with Ollysta Zadrian, a retired
+Pathfinder now operating the Silver Crusade, an effort
+to use the Society's resources to help those in need and
+spread good deeds throughout the world.
+2a. Temple of the Shining Star
+Arriving at the Temple of the Shining Star, the PCs are
+immediately directed to Ollysta Zadrian. This paladin
+of Sarenrae is young in her years, but holds herself with
+the poise of a queen and warrior simultaneously. As she
+notices the PCs' arrival, she strides forward, addressing
+the group in a strong voice.
+"Thank the light of Sarenrae you have arrived! I knew Ambrus
+would come through for us in the Silver Crusade. I desperately
+need you to bring medicine to an orphanage and let me know
+if the headmistress, Gilga Baltwin, is deserving of our charity.
+Since our quest began, the needy have clamored for our aid,
+and I suspect some are abusing our generosity. It may sound
+cruel, but there are plenty of dishonest people out in the world
+eager for easy gold.
+"Do you know of the Silver Crusade? After discovering so
+many factions splintered the Society, a number of us banded
+together to proliferate the cause of charity and kindness using
+Dire Rats (3)CR 1/3
+hp 5 (Pathfinder RPG Bestiary 232)
+Tactics
+During Combat Hardly tacticians, the dire rats always attack
+the nearest PC.
+Morale Protective of their den and food, the dire rats fight to
+the death.
+Hazard: The edges of the hole are dangerous and
+anyone stepping into one of the squares around the hole
+must make a DC 10 Acrobatics check or risk collapsing
+the floor further--and spilling the crate into the water.
+In addition, these squares count as difficult terrain
+due to their precarious nature. PCs succeeding at a DC
+15 Acrobatics check can ignore the difficult terrain and
+move through the squares normally. Any result of this
+check that fails by 10 or more forces the character to
+succeed at a DC 12 Reflex saving throw or fall into the bay
+below. Small characters receive an additional +1 bonus on
+the Acrobatics check and any resulting Reflex save due
+to their lighter weight. The drop into the water along
+with the falling debris deals 1d6 points of nonlethal
+bludgeoning damage. If the crate falls into the water, the
+books and papers are damaged unless the PCs can pull
+the crate from the water within 3 rounds. The water here
+is 15 feet deep.
+Development: While simply walking out and dragging
+the crate from its precarious position is next to impossible
+for these new adventurers, the group can successfully
+achieve their task with materials at hand and a little
+creativity. Four likely solutions are listed below, but allow
+the players to come up with their own clever solutions to
+the problem.
+· A PC strong enough to lift the 200-pound crate could be
+suspended by the crane and positioned over the crate.
+· The PCs can throw a rope with a hook at the handholds
+to secure the crate from afar. Treat this as a thrown
+weapon with a range increment of 10 feet targeting
+AC 10.
+· The PCs could also borrow the boat docked outside
+and simply collapse the floor, dropping the crate safely
+onto the deck of the boat.
+· The PCs can use the timber and tools to brace the floor
+and slide the crate to firm ground.
+If the group cannot seem to come up with a plan,
+urge them forward by asking for skill checks. A DC 10
+Knowledge (engineering) check gives them a hint to
+one of the solutions mentioned above. A general DC 15
+Intelligence check reveals the same hint. Searching
+through the other crates for tools to help them should
+be simple, and once the group has spent a few minutes
+looking through the pile of wares, allow them to find any
+reasonable item that might help them with their task. A
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695251
+1695251
+1695251
+408436
+408436
+408436
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695252
+1695252
+1695252
+408437
+408437
+408437
+Pathfinder Society SCENario
+10
+the Society's resources. As it is said, `The Dawn brings new
+light' and I've made it my life's work to use our recent darkness
+to bring a new light to the world and to the Pathfinder Society.
+I apologize for straying off point. Will you bring this parcel
+of medicine to Auntie Baltwin's Home for Recovery in the
+Eastgate district?"
+Zadrian is eager to answer any questions the PCs may
+have about the Silver Crusade, but urges the PCs along if
+they linger too long. While talking to them, she says she
+isn't sure if Gilga Baltwin is honest or not, but hopes this
+delivery by Pathfinder agents will confirm whether the
+orphanage is operating on the up and up. She asks the
+PCs to be observant and report back to her any evidence
+that Baltwin isn't worthy of the Silver Crusade's aid.
+Diplomacy (Gather Information) or
+Knowledge (Local)
+Before the PCs head to Auntie Baltwin's Home for Recovery,
+they may wish to ask around about the orphanage and the
+headmistress's quality of character. While most witnesses
+admit she is a mean old bag, they also all reply they think
+it is great what she's doing for the children.
+DC 10: Miltivis, who runs a nearby market, claims he's
+served Auntie Baltwin for over 30 years, and while a good
+customer, she is quite demanding and often rude to the
+other customers. He says she's kept his supplier of fine
+whiskeys in business for decades.
+DC 15: Gilga Baltwin's neighbors Travost and Tirelle
+Anthos are frankly tired of the noises the children make
+and the retinue of cats--though they do appreciate the
+latter's mousing skills. They admit to being happy when
+Auntie Baltwin sends the children "off into the town"
+during the day, as it gives them a few hours of peace and
+quiet before they return in the evening.
+DC 20: At the estate across the street, Master Trebb
+Bonto, a retired builder, says nothing but nice things of
+Lady Baltwin, as he calls her. He recounts tales of tea
+and games on the sitting porch, though if pressed, he
+lets slip  that she often cheats at games and sometimes
+had some shady characters coming to whisper in her ear
+and palm her small bags of what might have been money
+before slinking away. "Otherwise a fine lady, indeed." he
+quickly adds.
+2b. Auntie Baltwin's Home
+for Recovery (CR 1)
+Nearly swarming with cats and children, this fine upper-class
+home appears to be clean and in good condition considering
+the number and ages of its inhabitants. Three young boys
+shoot marbles in the dirt near the side porch, and inside
+strewn toys and more cats lie about on the floors. A few
+children take care of chores, while coughs and sneezes softly
+erupt from the children's dormitories upstairs.
+Auntie Baltwin's Home for Recovery is known for being
+a place where sick kids go to get better, and the results
+seem amazing. Some people claim the place looks odd
+because people are always coming and going, sometimes
+taking kids with them. Auntie Baltwin has always played
+that off as their parents taking them home. A few of the
+kids come and go throughout the day, especially children
+that are now well, but have nowhere else to go.  
+Zadrian wants the PCs to find out if his donation is going
+to be a genuine benefit to the community, and frankly,
+it is not. Auntie Gilga Baltwin is a corrupt old crone. In
+addition to her abrasive attitude, the woman has three
+significant negative qualities the PCs can discover and
+report to Ollysta Zadrian (see Development below).
+Creatures: A keen old hag of a woman, Auntie Baltwin
+is neither caring nor compassionate. She keeps the kids
+in her orphanage and treats them for their illnesses,
+but she only does so for ancillary reasons. She hopes
+to earn a good chunk of coin by keeping the donated
+medicines and selling them on the black market, using
+her personal talents in healing to treat the children.
+Some of kids aren't even orphans and are sent to recover
+under her care by wealthy merchants in the district.
+She sets a price according to what the family can pay,
+often inflating the price by 300% between favored and
+disliked families.
+The oldest of nine siblings, Gilga Baltwin grew up
+taking care of children, first her brothers and sisters, then
+her own. Once her children grew up and moved out of the
+house, she began taking in orphans--and donations from
+local churches and charities. Her talents for care became
+well known, and parents throughout the city sent their sick
+children to Gilga for healing. She uses skills and magical
+talents taught by her own grandmother, and her spells
+center around controlling and healing her charges.
+Auntie Baltwin uses Sense Motive to determine the
+PCs intentions when they arrive at her house. Once she
+understands the situation, she begins making outright
+lies in an effort to send the PCs away with a positive view of
+her operation. If she finds she's failing in this and knows
+what they want to hear, she tries and steer them in that
+direction. If the PCs begin putting the pieces together or
+become overly aggressive, she admits to the transgression
+she thinks will be least penalized by the group--likely
+her drinking habit. She turns herself in for the smallest
+crime the PCs will accept, even if it means she has to
+change up her operation. Anything is better than being
+arrested at her age. If she notices a PC is wounded when
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695252
+1695252
+1695252
+408437
+408437
+408437
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695253
+1695253
+1695253
+408438
+408438
+408438
+First Steps Part I: In Service to Lore
+11
+blending in with the dozen other cats in the room.
+Morale Auntie Gilga has no interest in dying and tries to
+escape using her potion of invisibility if the PCs become too
+violent. She immediately surrenders if reduced to fewer
+than half her hit points. Even after giving up, she still
+claims the PCs "started the whole thing."
+Statistics
+Str 7, Dex 5, Con 6, Int 13, Wis 16, Cha 15
+Base Atk +1; CMB ­1; CMD 6
+Feats Catch Off-Guard, Cosmopolitan*, Spell
+Focus (enchantment)
+Skills Bluff +8, Diplomacy +5, Heal +8, Intimidate +8,
+Knowledge (local) +5, Sense Motive +8
+Languages Common, Kelish, Osiriani, Varisian
+SQ summon familiar (Pickles, cat)
+Combat Gear potion of cure light wounds,
+potion of invisibility, scroll of cure light
+wounds, scroll of remove disease;
+Other Gear 30 gp
+* See the Advanced Player's Guide.
+PicklesCR --
+Cat familiar (Pathfinder RPG Bestiary 131)
+hp 4
+Development: As the PCs interact with Auntie Baltwin,
+they may uncover several bits of evidence that implicate
+her in illegal or immoral activity--just the sort of evidence
+Ollysta Zadrian asked them to discover. Below are Gilga
+Baltwin's secrets and the methods by which the PCs can
+uncover them.
+Alcoholism: Auntie Baltwin is a lifelong alcoholic, and
+is frequently drunk or drinking while taking care of the
+children. She seems mostly sober when the PCs visit, but as
+with all longtime addicts, she exhibits cues to her condition
+that are obvious to a keen observer. Any PC making a DC 12
+Heal check can spot broken blood vessels in the eyes and
+nose, shaky hands, glassy eyes, and a fine sheen of sweat
+on the woman. Also, in her sitting room is a nearly empty
+bottle of whiskey, as well as a half bottle in the kitchen. If
+the woman invites the PCs in for tea, she tips a few splashes
+of alcohol in her cup before asking the group if they would
+like a taste. If questioned about drinking and taking care of
+children, she shoots the PCs an incredulous look and laughs.
+"Ha! Seems most days you need it if you want to make it
+through the day in this house. These children are killing
+me!" Knowing this is the least of her sins, Auntie Baltwin
+fesses up to drinking excessively and offers herself up to
+guidance and recovery just to get the PCs off her back.
+Black Market: Gilga Baltwin also sells expensive
+donations from charities on the black market. She has
+a fair skill at healing and uses her daily spells to heal
+injuries and illnesses in her charges. Sometimes she
+they first arrive, she offers to heal him, hoping her feigned
+benevolence will throw the PCs off course.
+The old woman acts differently toward PCs of
+different races and occupations. She acts snide toward
+elves, disapproving toward dwarves, suspicious
+toward half-orcs, and treats gnomes and
+halflings as if they were children, talking to
+them simply and even scolding them for dumb
+questions or other minor mishaps. Auntie
+Baltwin shows the most respect to obvious
+casters, perhaps even with a hint of fear.
+She stands up to bully fighters, as if daring
+them to hit an old lady. The more roguish
+members of a party she treats suspiciously,
+but otherwise seems to get on with them,
+leading their questions and testing their
+allegiances. Auntie Baltwin treats he
+nature-oriented classes as if they
+were hobos, constantly chiding them
+for "touching things with their dirty
+hands" or asking, "Did you wipe your
+feet before coming in?"
+Auntie Gilga BaltwinCR 1
+Female old human adept 3
+LE Medium humanoid (human)
+Init ­3; Senses Perception +3
+Defense
+AC 7, touch 7, flat-footed 7 (­3 Dex)
+hp 8 (3d6­5)
+Fort ­1, Ref ­2, Will +6
+Offense
+Speed 30 ft.
+Melee cane ­1 (1d4­2)
+Ranged shoe ­6 (1d3­2)
+Adept Spells Prepared (CL 3rd; concentration +5)
+1st--command (DC 14), cure light wounds, sleep (DC 14)
+0--guidance, mending, touch of fatigue
+Tactics
+Before Combat Not expecting a visitor, Auntie Baltwin casts
+guidance before answering the door. More likely than not,
+she expends the spell on her first Diplomacy or Bluff check.
+Not looking for a fight, Auntie Baltwin uses her social skills
+to negotiate this encounter, hoping to avoid detection,
+arrest, or violence.
+During Combat If pushed to fight, Auntie Baltwin uses
+her spells to incapacitate the PCs, starting with sleep.
+She uses command on any PC trying to attack or grab
+her. Otherwise, she screams for help while whacking the
+aggressive PCs with her cane or throwing a shoe at them,
+in hopes of stalling long enough for the district guard to
+come investigate. She can also have Pickles, her cat familiar,
+deliver touch of fatigue by brushing up against the PCs, then
+Auntie Baltwin
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695253
+1695253
+1695253
+408438
+408438
+408438
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695254
+1695254
+1695254
+408439
+408439
+408439
+Pathfinder Society SCENario
+12
+actually uses the medicines and potions sent from places
+like the Silver Crusade, especially when it comes to fast
+and fatal diseases. Otherwise, she relies on home
+remedies, long bed rest, and careful
+watch over time. Most of the
+donations given to her for the
+children end up sold throughout
+the city to individuals who, for
+whatever reason, can't go to
+legitimate sources of healing when
+injured or ill. Auntie Baltwin uses
+a fence for this side business, and
+doesn't sell anything directly out of
+her home. A thorough search of her house
+(Perception DC 20) reveals stashed
+curatives from three different
+charities. Auntie Baltwin does not
+consent to the search and becomes
+increasingly irritated if the PCs snoop
+around without her permission.
+Child Labor: As her house filled with
+children left by their parents, Auntie Baltwin put
+them to work as servants and maids in other houses in
+the city, especially in the middle-class Eastgate district
+where she makes her home. She tells the children their
+work pays for their room and board, but the rates she
+charges for her pint-sized laborers easily pays for their
+lodging while she pockets the rest. The only way to
+determine this is to interview the children. Most reports
+claim she is mean, but that the children love her cooking
+and she tells fun stories at bedtime. Even the children
+who work don't call it that, and seem happy to keep busy
+and help out. A PC must make a DC 20 Diplomacy check
+with two different children out of earshot of Auntie
+Baltwin--who interrupts and shoos the children away
+if she overhears the PCs asking pointed questions--to
+discover the forced labor.
+Rewards: If the PCs deliver the medicine and report
+any information about Auntie Gilga Baltwin to Ollysta
+Zadrian, give each PC 68 gp.
+Act 3: Treasures Of Osirion
+Among the tasks on the PCs' list is visiting an Osirian
+nobleman named Dremdhet Salhar in the Wise Quarter
+to get permission for the Pathfinder Society to explore
+the Salhar ancestral vaults below Sothis. Salhar serves as
+a member of Absalom's Grand Council and is often out
+of the house on matters of business, but his aged advisor,
+Amenopheus, operates the Osirion faction of Pathfinder
+agents from his master's home when not putting
+suggestions in the malleable nobleman's ear.
+3a. The Salhar Estate
+The PCs make their way to the rich estate of Grand
+Councilmember Dremdhet Salhar, and are greeted by
+a guard who is expecting them as they reach the
+tall, wrought-iron gate. Once the PCs are
+inside, a servant tells the group Salhar is not
+present, called away on important Council
+business, but his most trusted advisor
+is available to negotiate any business
+they may require. The servant explains
+this while leading the group down well-
+decorated hallways, past expansive rooms.
+After a few minutes, the group arrives at
+a simple study near the end of a long hallway.
+Inside Amenopheus, the Sapphire Sage (N
+old male wizard 13), a tan-skinned old
+man sits behind a desk flipping through
+pages in a large tome. Scraps of paper
+jut from the book marking over two
+dozen different places. As the group
+approaches the open door, the wise sage silently
+gestures the PCs into the study with one thin hand,
+while closing the tome with the other after finishing
+what he was reading. Once the PCs are all inside the
+study, he addresses the group.
+"Good day to you, Pathfinders. I am Amenopheus, the Sapphire
+Sage, advisor to Master Salhar. I understand you were sent
+here to discuss archaeological permissions. Knowing this was
+coming, I spoke with Master Salhar at length on the subject
+and have this to say.
+"Since Osirion was reopened to exploration a decade ago,
+adventurers, historians, and treasure-seekers flock to my
+country by the hundreds, perhaps thousands. While most
+families with ancestral burial vaults maintain guards and keep
+their sites out of the hands of casual thieves, not all families
+have the wealth or power to restrict everyone, and as we all
+know, not every defense is perfectly secure. Unscrupulous
+tomb robbers and maligned merchant organizations cause
+Osirion to bleed relics into the Inner Sea--something the
+descendents of Ancient Osirion cannot afford. We Osiriani
+have thousands of years of rich history coursing through our
+veins, and while that power has been out of focus in recent
+years, we are content to wait, knowing our enemies will wear
+themselves down. As they fall into arrogance, folly, or greed,
+we wait for our return to power, knowing we bear the riches of
+our ancestors at our feet.
+"Master Salhar remains impressed by the Pathfinder
+Society, orating in their favor a handful of times in front
+of Absalom's Grand Council, in fact. Due to previous
+relationships between him and the Society, Master Salhar
+has agreed to grant permission to the Pathfinder Society to
+explore his family's vaults below Sothis. The only thing he
+Amenopheus,
+The Sapphire Sage
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695254
+1695254
+1695254
+408439
+408439
+408439
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695255
+1695255
+1695255
+408440
+408440
+408440
+Puzzling Props
+While you don't need a map for this encounter, it might
+help the players' visualize the puzzle better if you draw out
+three squares representing the chests, a smaller square
+representing the silk box, and a circle representing the
+wicker basket. To represent the four keys in the various
+containers, you could use coins, dice, or even real keys.
+Some sets of GameMastery Item Cards contain cards for
+boxes, chests, and keys, and may assist in visualization of this
+puzzle. Simply select three chests, one box, a jar, and four
+keys from the deck. Feel free to change the descriptions of
+the keys and containers to match the item cards used.
+First Steps Part I: In Service to Lore
+13
+Trap: A writhing, angry green viper rests at the bottom
+of the basket hidden among the wadded cloth on which
+the rune-etched key sits. Any creature reaching into the
+basket provokes it to attack. While the PCs can't disable
+the viper, they can bypass the trap by using a tool, mage
+hand, or gravity to get the key out of the basket. If they tip
+the basket's contents onto the ground, the viper attacks
+the nearest creature (use the viper familiar stats on page
+133 of the Pathfinder RPG Bestiary).
+Snake Bite TrapCR 1/2
+Type mechanical; Perception DC 15; Disable Device --
+Effects
+Trigger touch; Reset automatic
+Effect Atk +5 melee, 1d2­2 plus tiny viper poison (save Fort DC
+9; frequency 1/round for 6 rounds; effect 1d2 Con; cure 1 save)
+Treasure: The runes on this key match those
+surrounding the keyhole of the red lacquered chest. The
+key radiates a faint aura of transmutation. When this key
+is placed within the keyhole of the red lacquered chest,
+the chest opens without the key needing to be turned.
+The Glass Jar (CR 1/2)
+This gallon-sized clear glass jar is about half full with
+clear liquid. At the bottom of the vessel sits a jeweled
+brass key.
+Trap: While the liquid in this jar appears to be water,
+it's actually a mildly corrosive cleaning agent. Any creature
+reaching into the jar to retrieve the key takes acid damage as
+outlined below. If the PCs pour out the jar's contents or break
+the jar to free the key from the bottom of the acid, everyone
+within 5 feet of the jar takes 1 point of acid damage.
+Acid Jar TrapCR 1/2
+Type mechanical; Perception DC 15; Disable Device --
+Effects
+Trigger touch; Reset automatic
+requires is that you retrieve the map of the vaults from his
+own vault here. The servant will lead you to the basement
+and show you the room."
+The Sapphire Sage's eyes twinkle as he smirks knowingly,
+then he turns back to reading his book as though he had
+never been disturbed.
+After leaving Amenopheus' study, the servant brings
+the group back through the spacious estate, leading them
+down sturdy stone steps into the cool basement. Down a
+hallway, after a couple turns, the party ends up at a plain
+wooden door. The servant opens the door, gesturing
+to the room with a bow, and waits silently for the PCs
+to enter. He doesn't know anything beyond that he is
+supposed to escort the PCs to this room and lock the door
+behind them; if questioned, he remains silent and stoic,
+simply waiting for them to go into the vault.
+3b. Salhar's Vault (CR 2)
+A plain stone room contains three chests: a copper-banded
+chest of smooth, dark wood; a red lacquered chest; and what
+looks to be a cube of solid steel. Behind the chests sits a low
+table holding a clear glass jar half full of liquid and a covered
+wicker basket.
+Once all of the PCs enter the room, the servant shuts
+the door and locks it behind them. Written on the back
+of the door is the message: "Within these cases lies your
+quest and your way out." These five containers hold clues
+to solving the puzzle of this room and one holds the prize
+the Pathfinders seek--the map to the Salhar ancestral
+vaults beneath Sothis. Amenopheus, ever in search of
+new agents within the Pathfinder Society to help forward
+Osirion's goals, set this elaborate puzzle to test the PCs'
+mettle and cunning. The novice Pathfinders must find
+the map and the way out of the room within a half-hour,
+at which point the servant returns and opens the door
+to release them from their prison, assuming they have
+failed the task set before them.
+Container KeyContents
+ Wicker basket no key needed blue stone key
+ Glass jar no key needed jeweled brass key
+ Copper-banded chest illusory nothing
+ Red lacquered chest blue stone key scepter key
+ Steel chest bright golden key map & treasure
+The Wicker Basket (CR 1/2)
+This 2-foot-round wicker basket requires no key to open,
+its lid resting gently atop its wide rim. Inside, a blue stone
+key rests atop a pile of crumpled linens.
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695255
+1695255
+1695255
+408440
+408440
+408440
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695256
+1695256
+1695256
+408441
+408441
+408441
+Pathfinder Society SCENario
+14
+Effect 1d6 acid damage (DC 16 Reflex save for half damage)
+Treasure: The jeweled key at the bottom of the jar
+seems to fit each box's lock. When the key is placed
+in the copper-banded chest's keyhole, the PC
+using it receives a Will save for interacting
+with the illusory chest as normal. When it is
+placed in the red lacquered chest's keyhole,
+nothing happens and the key keeps spinning
+without making any manner of contact with
+the mechanism. Placed in the steel chest's
+keyhole, the key breaks, falling into dust as
+it's twisted in the lock.
+The Copper-Banded Chest
+This chest is an illusion. When a PC
+touches the chest--such as by placing a
+key within its keyhole--she gains a free
+Will save. Those who make a DC of 12 see
+the chest fade into a faint outline as they
+realize it to be an illusion. Others must
+interact with it to beat the illusion themselves,
+though they receive a +4 bonus if they are informed of
+the figment's true nature before interacting with it.
+The Red Lacquered Chest
+This smooth, red lacquered chest looks devious. The
+solid metal plate surrounding the gaping keyhole pulses
+with glowing amber runes. When this chest is opened,
+a complex pulley system rigged from its lid, through
+the f loor, and up to the ceiling releases a small, golden
+key from a slit in the ceiling, dropping it 6 inches down
+from the 15-foot-high ceiling. A PC making a DC 16
+Perception check hears a slight click as the mechanism
+activates. Allow the PCs to use creative solutions to
+retrieve the key; if they get it down, it can be used to
+open the steel chest.
+Treasure: The red lacquered chest holds a key forged
+into the end of a jeweled scepter. Though the jewels and
+the scepter appear to be quite exquisite, a DC 15 Appraise
+check reveals them to be mere costume gems. Despite
+this deception, the key at the end of the scepter opens
+the door to the vault, allowing the PCs to exit the room
+at their leisure.
+The Steel Chest (CR 1/2)
+This steel cube has only the faintest crack where its lid
+meets the base, and would be completely featureless save
+for its narrow keyhole. The gold key hanging from the
+ceiling opens this chest.
+Trap: The clasp mechanism of this chest is trapped
+such that, unless it's disarmed, any creature opening the
+chest (even with the gold key) activates it. It is, however,
+a harmless trap meant only to mark those PCs unable to
+avoid it for Amenopheus's review.
+Prank TrapCR 1/2
+Type magic; Perception DC 15; Disable Device DC 15
+Effects
+Trigger touch; Reset automatic
+Effect spell effect (prestidigitation, turns skin blue
+for 3d20 minutes, Will DC 11 resists); multiple
+targets (all creatures within 10 feet)
+Treasure: This chest holds the map of the
+Salhar burial vaults beneath Sothis and a
+wand of knock (CL 3rd, 11 charges).
+Development: If the PCs open the
+chests and exit the chamber on their
+own within a half-hour, the servant
+waiting on the other side tells them
+they can keep the map and wand,
+but asks them to give back any keys
+they may have. If, however, the PCs
+are stumped by Amenopheus's puzzle, the servant
+opens the door to release them regardless of their
+success or failure. He expresses his disappointment
+and notes that perhaps other Pathfinders will be better
+equipped to prove their worth to his master. In either
+case, the servant makes a point of noting which PCs (if
+any) have had their skin turned blue.
+If the PCs try to find Amenopheus after their ordeal,
+they are told he has left for the day. Perhaps they should
+try back tomorrow.
+Rewards: If the PCs retrieve the map of the Salhar
+family vaults, give each PC 82 gp.
+Act 4:
+A Promise Of Dominance
+The fourth task on the PCs' list is to retrieve an item
+on loan from the Pathfinder Vault. Paracountess Zarta
+Dralneen, an influential diplomat from the devil-
+worshiping nation of Cheliax, spent some time studying
+the box she borrowed, but she has been unsuccessful
+in delving its contents. To make matters worse, today
+an imp servant struck with mania is in the process of
+trashing her bedroom, making retrieval of the box a
+difficult task.
+4a. Zarta's Study
+Arriving at Paracountess Zarta Dralneen's townhouse
+in the Ivy District--one of several homes the
+noblewoman keeps around Absalom--the PCs come
+upon a magnificent gothic structure three stories in
+Paracountess
+Zarta Dralneen
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695256
+1695256
+1695256
+408441
+408441
+408441
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695257
+1695257
+1695257
+408442
+408442
+408442
+Zarta's Townhouse
+1 square = 5 feet
+N
+4b
+4a
+S
+S
+First Steps Part I: In Service to Lore
+15
+height. The ebon lacquered double doors wrought with
+gleaming silver fixtures greet the characters, a prickly
+brass cone hanging from a chain serving as the door
+chime. Moments after ringing it, a servant in loose
+casual attire opens the door, greeting the Pathfinders
+as if expected. If questioned, the servant remains quiet,
+only responding when pressed, and then with only a few
+simple words: "My mistress will answer any questions
+you have once we reach her quarters."
+Led through well-appointed sitting rooms, ballrooms,
+and a grand stairway granting a view of an elaborate
+study, the PCs finally arrive on the third floor of the
+house, at the door of Zarta's personal study, which lies
+beyond her bedroom. Knocking upon the door and
+announcing his presence, the servant opens the darkly
+stained wooden door.
+A large intricate carpet dominates the marble f loor
+in this sitting room. A chaise sits along the north
+wall and a desk spans the southeast corner, its chair
+positioned with its back to the southwest corner of the
+room. Three comfortable chairs are positioned around
+a small, low circular table. Hidden in the angled
+northwest wall is a secret door, discoverable with a
+DC 25 Perception check, which leads to Zarta's secret
+library, from which she operates many of her most
+delicate operations.
+Sitting in the chair behind the desk, Paracountess Zarta
+Dralneen (LE female human aristocrat 4 / bard 8) regards
+the PCs with a wry smile, putting away a few papers before
+standing to address the hopeful Pathfinders.
+"Aldor, you are dismissed. Close the door behind you and
+attend to your other tasks." She then turns her attention to the
+group. "It's always so incredibly adorable when I see a fresh-
+faced batch of Pathfinders. I mean, look at you scrumptious
+little teacakes. I could eat each and every one of you up.
+Well, maybe not you." Zarta points. "I assume this isn't a
+pleasure visit since most of you are terribly overdressed for
+that manner of occasion, so that must mean you are here for
+that trinket Valsin has been nagging me about. Seems I can't
+get that man around these parts anymore," she gestures,
+sliding her hand down her body and widening the gesture
+to sweep out and across the room as if her home were a
+secondary thought. "On the good side, he always sends me
+all the precious new recruits.
+"Many think we in Cheliax serve and worship devils, but
+that couldn't be further from the truth. In fact, we use the
+creatures for their power. They serve us and we sculpt their
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695257
+1695257
+1695257
+408442
+408442
+408442
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695258
+1695258
+1695258
+408443
+408443
+408443
+Pathfinder Society SCENario
+16
+power in our own interests. The world must come to terms
+with the order of things. People need to know their place and
+operate accordingly. It is the only way to make order from this
+world. Too many people stretch too far beyond their station,
+making waves and eroding the true order."
+The "trinket" Ambrus Valsin sent the PCs to retrieve
+is a seven-lock iron case. Zarta tells the PCs about the
+box and its locks and seals, explaining she was trying to
+bypass the protections. She advises not trying to tamper
+with the case when bringing it back to the Grand Lodge,
+but never admits to what the case contains. She can tell
+them the box is magically warded with abjuration magic
+intermingled with strong evocation magic, in addition to
+the seven masterwork locks. For PCs delving into the box,
+a creature must succeed at a DC 40 Disable Device check
+for each lock. Every failed attempt to pick one of the seven
+locks results in 1 hit point of damage to the creature
+attempting the check as pain shoots through its body. It
+is unlikely the PCs can manage this skill check, and since
+they were advised not to tamper with the case, hopefully
+the damage--combined with these other reasons to leave
+the case alone and simply do their duty and return it--
+will keep the group from being too curious. Zarta claims
+to know nothing about the box aside from it having a
+connection with devils and Hell.
+As the paracountess talks, a cacophony of booms and
+crashes sounds from beyond the room's west door. She
+sometimes pauses at an extended eruption of these noises
+before continuing with the conversation. If asked about
+the neighboring ruckus, Zarta explains, "A servant is
+greatly misbehaving. You're going to have to deal with
+it in order to get the trinket." She goes over to the desk
+in her study, opening a drawer and drawing out an
+exquisite silver letter opener shaped like a dagger (treat
+as a masterwork silver dagger). "You might need this to
+get it to submit," she offers with a sly grin.
+4b. The Bedroom (CR 2)
+Zarta's bedroom is decorated in the colors of Cheliax--
+ebon black and crimson red. Silk, rare woods, and
+carefully carved marble compose every bit of furniture
+in the room. Goose down now litters the room, covering
+almost every surface and the silken shreds of the cushions
+that contained it lie about like flayed skin . A post on the
+massive screened bed is snapped in half, collapsed on the
+bed and drawing the screened curtains into a ripped slope
+of formerly fine cloth. Vials of perfume and crystal jars of
+other cosmetics sit smashed on the marble floor around
+the dresser. A prominent fixture in the room, a large "X"
+made of stout wood sits along the west wall, complete with
+leather shackles and chains. A table sits to its left strewn
+with various items intended for pleasure, but outwardly
+resembling implements of pain.
+This formerly lavish boudoir provides the deviant
+Chelish diplomat a place to relax away from the never-
+ending intrigue of Absalom's political scene, and
+the decorations indicate she does a fair amount of
+entertaining here as well. The northeast wall, next to the
+bed, hides a secret door (Perception DC 25) that leads to
+the paracountess's secret library.
+Creature: The imp Kreuvus is enraged and totally out
+of control. The creature desperately wants inside the box
+and throws it around the room hoping to smash the thing
+open. Though dented, the case doesn't look like it will be
+opening anytime soon.
+Kreuvus does as much as it can to wreck things while
+annoying the PCs. Only after the imp is damaged to half
+its hit points does it start actively fighting the PCs. In
+addition to the silvered cat-o'-nine-tails Zarta gave the
+group, a silver-tipped riding crop lies on the table in the
+southwest corner, just inside the door. If the PCs already
+completed the task for Guaril Karela (see Act 1), they could
+use the powder found in the crate to help locate the imp
+when it's invisible.
+If the group asks the imp why he wants in the box so
+badly, Kreuvus claims it holds a dark leather bag and a
+silver hook that allows the user to draw imps--subservient
+to the user--directly from Hell. He wants to hide the bag
+from mortals to protect devils of his kind.
+KreuvusCR 2
+Imp (Pathfinder RPG Bestiary 78)
+hp 16
+Tactics
+Before Combat Rapt with his reckless destruction, Kreuvus
+barely notices, or pays attention to, the PCs until they either
+attack or address him. Kreuvus already used his daily use of
+augury and suggestion, and just 3 days ago used his weekly
+use of commune.
+During Combat Kreuvus chooses tactics that annoy or
+frustrate his enemies more than those that directly harm
+them. He tries to keep his distance and relies on his
+invisibility spell-like ability. If any PCs get close to him, he
+lashes out with his poison sting.
+Morale When reduced to 5 or fewer hit points, Kreuvus flees if
+any doors are open. Otherwise, the addled imp surrenders
+the case, saying, "Yes, you've bested me, but I don't wish
+to leave so soon. Take the blasted box, and tell Mistress
+Dralneen I deserve what comes my way."
+Treasure: If the PCs ask nicely, Zarta allows one of them
+to keep the silver letter opener, but only if they agree to
+come back and visit her when they have more free time.
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695258
+1695258
+1695258
+408443
+408443
+408443
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695259
+1695259
+1695259
+408444
+408444
+408444
+Foreign Quarter Back Alley
+1 square = 5 feet
+N
+D W
+L H
+GameMastery Map Pack: Ambush Sites
+PCs Begin
+Here
+D = Deandre
+W= Larkin
+L = Ledford
+H = Hallie
+First Steps Part I: In Service to Lore
+17
+Rewards: If the PCs safely retrieve the seven-lock box
+from Kreuvus, give each PC 27 gp.
+Act 5: Jumped! (CR 3)
+As the PCs complete the fourth and final task on their
+agenda and head back to the Grand Lodge, they must
+pass through the Foreign Quarter back to the Society's
+headquarters. Along the way, they are funneled into
+an ambush set up by the gang of criminals who have
+been tracking them throughout the day. To begin this
+encounter, read the following aloud.
+A throng of people blocks the street ahead. A performance
+art group commandeers the street, drawing graffiti to create
+a jolly hellscape complete with illusory devils comically
+dancing around in circles. A few citizens avoiding the crowd
+slip off-street through a nearby alley, the only egress past
+the gathering.
+Since leaving the Grand Lodge this morning, four
+unscrupulous, fledgling adventurers followed the new
+Pathfinders throughout the day, shadowing them on
+their tasks. The adventurers are simply looking for an
+easy payout, knowing Pathfinders often have excellent
+gear, good coin, and frequently carry important items
+and documents from place to place in town. Weaving
+through back allies and busy streets, the gang members
+place themselves in front of the PCs, hoping to herd them
+into an advantageous position.
+Deandre Dulay used a contact in the rebellious art
+group known as the Jocund Pranksters to stage an event
+in the adventurers' most likely path. While the Jocund
+Pranksters create their chalk and illusion spectacle and
+jam traffic flow to side alleys, Deandre's gang surrounds
+the PCs in the crowd that makes its way around the
+obstruction, planning to jump the PCs when they get out
+of sight from the crowd. Other people take this shortcut
+as well, and the group of thug adventurers blends into
+the crowd until throwing the alleyway into a hazy fog by
+casting of obscuring mist. Once that happens, the common
+citizens flee, leaving the alley clear for both groups to
+deal with each other.
+Creatures: Deandre Dulay, an ambitious cleric of
+Norgorber, has assembled a band of outcasts as her first
+fledgling thieving group, hoping to lead a cell of criminals
+in the near future. To achieve her aim, her band needs
+income, and that's where robbing Pathfinders comes in.
+Young and lithe, with red hair hanging in ringlets that
+just brush her shoulders, Deandre doesn't immediately
+appear as dire a threat as she actually is. She wears a long
+skirt, embroidered with silver and black thread and a
+high-necked woolen blouse, its stout fabric concealing
+her chain shirt.
+The team's not-quite-insane arcanist Halli Fosta does
+not interpret the world like other people. She approaches
+everything with curiosity, passion, and a cruel streak
+a fiend would appreciate. Deandre is uncertain how
+having a sociopath in her fledgling group will work out,
+but isn't afraid to kill the girl if she gets too crazy. Full
+golden blonde hair frames Halli's healthy, smiling face,
+punctuated with steely blue eyes and thick red lips. Halli
+wears a well-made, green silk dress in the most current
+fashion with a shimmering black scarf draped across her
+shoulders, and fidgets as the moves, a nervous habit she
+picked up as a child trying to hide the extra digit on each
+of her hands from casual acquaintances.
+The anarchist comedian Larkin Waever, a Galtan
+refugee, has a scathing wit he focuses on authority figures.
+He began working with Deandre for extra money and the
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695259
+1695259
+1695259
+408444
+408444
+408444
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695260
+1695260
+1695260
+408445
+408445
+408445
+Pathfinder Society SCENario
+18
+chance to sow a bit of chaos when his political humor
+failed to support his lifestyle. With a face you could easily
+forget or miss in a crowd--short-cropped light brown
+hair, light complexion, and forgettable brown eyes--
+Larkin wears rumpled worker's clothing with a
+heavy coat over his chain shirt.
+Rounding out the team, the halfling
+brawler Ledford more than makes up for
+his short stature with his uncontrollable
+energy and rampaging anger. A former
+circus performer and underground fighting
+champion, Ledford hopes he can make
+enough money through an alliance with
+Deandre to retire to his homeland of Cheliax
+with a manor and slaves of his own, while
+Deandre simply hopes she can redirect his
+rage to take out her enemies instead of causing
+any collateral damage on the rest of her team.
+With his comical handlebar moustache,
+Ledford is an easy face to remember, but
+when madness fills his eyes, he's a sight
+one soon wants to put as far from memory
+as possible.
+This is the first time this criminal group has pulled a
+hit like this, but Deandre and her thugs have planned their
+tactics. If any PCs made their Perception or Sense Motive
+checks to notice the thugs watching them as they traveled
+about the city, they recognize one of their attackers just
+before the ambush, realizing that they've seen the thug's
+face before. These PCs may act in the surprise round.
+Deandre DulayCR 1/2
+Female human cleric of Norgorber 1
+NE Medium humanoid (human)
+Init +1; Senses Perception +3
+Defense
+AC 16, touch 12, flat-footed 14 (+4 armor, +1 Dex, +1 dodge)
+hp 12 (1d8+4)
+Fort +2, Ref +1, Will +5
+Offense
+Speed 30 ft.
+Melee short sword +2 (1d6+2/19­20)
+Ranged dagger +1 (1d4+2/19­20)
+Special Attacks channel negative energy 4/day (DC 11, 1d6)
+Domain Spell-Like Abilities (CL 1st; concentration +4)
+6/day--touch of evil (1 round)
+6/day--copycat (1 round)
+Cleric Spells Prepared (CL 1st; concentration +4)
+1st--cure light wounds, protection from goodD
+, shield of faith
+0 (at will)--bleed (DC 13), detect magic, stabilize
+D Domain spell; Domains Evil, Trickery
+Tactics
+Before Combat Putting on her mask, Deandre Dulay casts
+protection from good before whistling to her companions
+to attack.
+During Combat On her first turn, Deandre casts shield
+of faith, then rushes into battle to provide flanking
+opportunities for Larkin. In following rounds, she fights
+in melee range with Ledford, allowing Larkin to
+take advantage of the Gang Up feat. She heals
+herself or companions as needed and uses her
+copycat ability for added protection.
+Morale Determined to make a name for
+herself, pride forces Deandre Dulay to fight to
+the death. She goes down spitting curses and
+hurling insults.
+Statistics
+Str 14, Dex 13, Con 10, Int 8, Wis
+17, Cha 12
+Base Atk +0; CMB +2; CMD 14
+Feats Dodge, Toughness
+Skills Heal +7, Spellcraft +3
+Languages Common
+SQ aura
+Combat Gear potion of cure light wounds,
+potion of shield of faith; Other Gear
+masterwork chain shirt, short sword, dagger, gray mask,
+unholy symbol, 28 gp
+Halli FostaCR 1/2
+Female human sorcerer 1
+CE Medium humanoid (human)
+Init +2; Senses Perception ­1
+Defense
+AC 12, touch 12, flat-footed 10 (+2 Dex)
+hp 8 (1d6+2)
+Fort +1, Ref +2, Will +1
+Offense
+Speed 30 ft.
+Melee dagger +0 (1d4/19­20)
+Ranged light crossbow +2 (1d8/19­20)
+Bloodline Spell-Like Abilities (CL 1st; concentration +4)
+6/day--acidic ray (1d6+1 acid)
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)--color spray (DC 14), magic missile
+0 (at will)--bleed (DC 13), detect magic, light, message
+Bloodline Aberrant
+Tactics
+Before Combat Halli casts mage armor from her scroll before
+drawing the PCs into the alley. She triggers combat on
+Deandre's signal by casting her scroll of obscuring mist.
+During Combat Halli keeps her distance from the fight,
+preferring to use acidic ray from range. If she is threatened
+in melee, she uses color spray or her scroll of burning hands
+to eliminate any foes in range. If somehow depleted of
+spells or spell-like abilities, Halli resorts to her crossbow.
+Ledford
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695260
+1695260
+1695260
+408445
+408445
+408445
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695261
+1695261
+1695261
+408446
+408446
+408446
+First Steps Part I: In Service to Lore
+19
+Morale Distracted by her delight in the battle, Halli doesn't
+think to surrender or flee and gleefully laughs during
+combat, even up to the moment of her death.
+Statistics
+Str 10, Dex 14, Con 13, Int 12, Wis 8, Cha 17
+Base Atk +0; CMB +0; CMD 12
+Feats Eschew Materials, Point-Blank Shot, Precise Shot
+Skills Bluff +7, Intimidate +7, Spellcraft +5, Use Magic
+Device +7
+Languages Common, Elven
+SQ bloodline arcana
+Combat Gear potions of cure light wounds (2), scroll of burning
+hands, scroll of mage armor, scroll of obscuring mist, scroll
+of shield, scroll of unseen servant, wand of disguise self (5
+charges); Other Gear dagger, light crossbow with 20
+bolts, fan of pigeon feathers, small pouch of trimmed
+fingernails, 53 gp
+Larkin WaeverCR 1/2
+Male human rogue 1
+NE Medium humanoid (human)
+Init +3; Senses Perception +4
+Defense
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex)
+hp 10 (1d8+2)
+Fort +1, Ref +5, Will +0
+Offense
+Speed 30 ft.
+Melee rapier +2 (1d6+2/18­20), dagger +2 (1d4+2/19­20)
+Ranged dagger +3 (1d4+2/19­20)
+Special Attacks sneak attack +1d6
+Tactics
+Before Combat Larkin waits for the signal before rushing in to
+strike the first available PC with his rapier.
+During Combat Unless Deandre and Ledford both threaten
+his target, Larkin shifts his position to flank, allowing him to
+make use of the Gang Up feat.
+Morale Larkin does not think this is a good day to die, and
+breaks and runs when reduced to 3 hit points. Given the
+chance, Deandre strikes at the turncoat.
+Statistics
+Str 14, Dex 17, Con 12, Int 13, Wis 10, Cha 8
+Base Atk +0; CMB +2; CMD 15
+Feats Combat Expertise, Gang Up*
+Skills Acrobatics +5, Bluff +3, Climb +4, Disable Device +5,
+Knowledge (local) +5, Perception +4, Perform (comedy) +3,
+Sense Motive +4, Sleight of Hand +7, Stealth +5
+Languages Common, Osiriani
+SQ trapfinding +1
+Combat Gear elixir of hiding; Other Gear chain shirt, rapier,
+dagger, notebook of jokes, ink, quill, small hand puppet
+representing Lord Gyr, 8 gp
+* See the Advanced Player's Guide.
+LedfordCR 1/2
+Male halfling barbarian 1
+CE Small humanoid (halfling)
+Init +2; Senses Perception +7
+Defense
+AC 15, touch 11, flat-footed 13 (+4 armor, +2 Dex, ­2 rage,
++1 size)
+hp 17 (1d12+5)
+Fort +7, Ref +3, Will +4; +2 vs. fear
+Offense
+Speed 30 ft.
+Melee greataxe +5 (1d10+4/×3)
+Special Attacks rage (6 rounds/day)
+Tactics
+Before Combat Eager to brawl, only Deandre's intimidation
+keeps Ledford from rushing in before her signal.
+During Combat On his first turn, Ledford begins his rage
+ability, moves to the first PC he can reach, and attacks
+using power attack. He maintains his rage for the
+following 6 rounds, but stops using Power Attack if his
+first two attacks miss a particular PC. If given a choice of
+targets, Ledford always chooses the biggest, strongest
+PC. Gleeful at finally being paid to fight people, Ledford
+shouts out taunts with each blow, followed with a short
+laugh. He clearly enjoys combat.
+Morale While raging, Ledford fights to the death. If fatigued
+at the end of his 6 rounds of rage and reduced to 4 or
+fewer hit points, Ledford offers to call the fight a draw.
+Disgusted with his performance, Deandre may strike the
+failed barbarian.
+Base Statistics When not raging, Ledford's statistics are
+AC 17, touch 13, flat-footed 15; hp 15; Melee greataxe +3
+(1d10+1/×3); Str 13, Con 14; CMB +1, CMD 13; Climb +6
+Statistics
+Str 17, Dex 15, Con 18, Int 10, Wis 12, Cha 10
+Base Atk +1; CMB +3; CMD 13
+Feats Power Attack
+Skills Acrobatics +7, Climb +8, Intimidate +4, Perception +7
+Languages Common, Halfling
+SQ fast movement
+Combat Gear potion of cure light wounds; Other Gear
+masterwork chain shirt, greataxe, block of wax in a metal
+tin, fine comb with a long handle, bottle of whiskey and four
+silver cups, 25 gp
+Rewards: If the PCs survive the ambush, give each
+player 129 gp.
+Conclusion
+At the end of the day, Venture-Captain Ambrus Valsin
+thanks the PCs for carrying out his tasks, and assures them
+that not every mission for the Pathfinder Society involves
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695261
+1695261
+1695261
+408446
+408446
+408446
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695262
+1695262
+1695262
+408447
+408447
+408447
+Player Handout
+Pathfinder Society SCENario
+20
+Assignment #17:
+  A man named Guaril Karela runs a curio shop in the Docks called
+the Pickled Imp. Go to him and fill his request as a favor to the
+Society. I believe it has something to do with a set of rare books.
+  Ollysta Zadrian requested aid and is expecting you at the Temple
+of the Shining Star in the Ascendant Court. She needs someone
+to deliver a parcel of medicine and curatives to a needy orphanage
+and verify the character of the recipient.
+  Visit the offices of Osirian nobleman Dremdhet Salhar in the Wise
+Quarter. The Pathfinder Society needs to obtain permission to
+delve the Salhar ancestral vaults beneath Sothis. He has made a
+verbal agreement, and your visit makes it official. You will receive an
+official charter and detailed maps. Do not embarrass the Society in
+this matter.
+  Chelish Paracountess Zarta Dralneen possesses an item loaned
+from the Vaults. Meet with her in her estate in the Ivy District and
+retrieve the item in her possession.
+running errands about Absalom. If the PCs successfully
+completed three of the four tasks, he congratulates them
+on proving their skill and responsibility, and promises
+them a new assignment in the near future to take them
+beyond Absalom's unassailable walls.
+The Pathfinders likely have a good idea what life will
+be like as an agent in the organization and have become
+at least familiar with Absalom, as well as half the total
+faction heads who will ply for their allegiance in two
+adventures' time. If you are running the First Steps series
+consecutively, feel free to give the PCs a hint of their next
+adventure in this scenario's conclusion, insinuating that
+Ambrus Valsin knows at least one venture-captain (the
+Lantern Lodge's Amara Li) who has a task she'd like the
+PCs to perform.
+If any of the players at your table are new to the
+Pathfinder Society, make sure to help them complete
+their Chronicle sheet.
+Success Conditions
+In order for the PCs to earn their Prestige Point for
+completing the adventure, they must have completed at
+least three of the four tasks on Ambrus Valsin's list.
+Faction Missions
+There are no faction-specific missions in this scenario,
+as PCs playing through the First Steps series have not
+yet chosen factions, so any PC who meets the scenario's
+success conditions earns a second Prestige Point for
+completing the scenario. When a PC earns her third
+Chronicle (after completing A Vision of Betrayal), all
+previously earned prestige will be reported to her
+chosen faction.
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695262
+1695262
+1695262
+408447
+408447
+408447
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695263
+1695263
+1695263
+408448
+408448
+408448
+First Steps Part I: In Service to Lore
+21
+OPEN GAME LICENSE Version 1.0a
+The following text is the property of Wizards of the Coast, Inc. and is
+Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All Rights Reserved.
+1. Definitions: (a) "Contributors" means the copyright and/or trademark
+owners who have contributed Open Game Content; (b) "Derivative Material"
+means copyrighted material including derivative works and translations
+(including into other computer languages), potation, modification, correction,
+addition, extension, upgrade, improvement, compilation, abridgment or other
+form in which an existing work may be recast, transformed or adapted; (c)
+"Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly
+display, transmit or otherwise distribute; (d) "Open Game Content" means the
+game mechanic and includes the methods, procedures, processes and routines
+to the extent such content does not embody the Product Identity and is an
+enhancement over the prior art and any additional content clearly identified
+as Open Game Content by the Contributor, and means any work covered by
+this License, including translations and derivative works under copyright
+law, but specifically excludes Product Identity. (e) "Product Identity" means
+product and product line names, logos and identifying marks including trade
+dress; artifacts, creatures, characters, stories, storylines, plots, thematic
+elements, dialogue, incidents, language, artwork, symbols, designs, depictions,
+likenesses, formats, poses, concepts, themes and graphic, photographic and
+other visual or audio representations; names and descriptions of characters,
+spells, enchantments, personalities, teams, personas, likenesses and special
+abilities; places, locations, environments, creatures, equipment, magical or
+supernatural abilities or effects, logos, symbols, or graphic designs; and any
+other trademark or registered trademark clearly identified as Product identity
+by the owner of the Product Identity, and which specifically excludes the Open
+Game Content; (f) "Trademark" means the logos, names, mark, sign, motto,
+designs that are used by a Contributor to identify itself or its products or the
+associated products contributed to the Open Game License by the Contributor
+(g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format,
+modify, translate and otherwise create Derivative Material of Open Game
+Content. (h) "You" or "Your" means the licensee in terms of this agreement.
+2. The License: This License applies to any Open Game Content that contains
+a notice indicating that the Open Game Content may only be Used under and in
+terms of this License. You must affix such a notice to any Open Game Content
+that you Use. No terms may be added to or subtracted from this License except
+as described by the License itself. No other terms or conditions may be applied
+to any Open Game Content distributed using this License.
+3. Offer and Acceptance: By Using the Open Game Content You indicate
+Your acceptance of the terms of this License.
+4. Grant and Consideration: In consideration for agreeing to use this License,
+the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive
+license with the exact terms of this License to Use, the Open Game Content.
+5. Representation of Authority to Contribute: If You are contributing original
+material as Open Game Content, You represent that Your Contributions are
+Your original creation and/or You have sufficient rights to grant the rights
+conveyed by this License.
+6. Notice of License Copyright: You must update the COPYRIGHT NOTICE
+portion of this License to include the exact text of the COPYRIGHT NOTICE of
+any Open Game Content You are copying, modifying or distributing, and You
+must add the title, the copyright date, and the copyright holder's name to the
+COPYRIGHT NOTICE of any original Open Game Content you Distribute.
+7. Use of Product Identity: You agree not to Use any Product Identity,
+including as an indication as to compatibility, except as expressly licensed
+in another, independent Agreement with the owner of each element of that
+Product Identity. You agree not to indicate compatibility or co-adaptability with
+any Trademark or Registered Trademark in conjunction with a work containing
+Open Game Content except as expressly licensed in another, independent
+Agreement with the owner of such Trademark or Registered Trademark. The use
+of any Product Identity in Open Game Content does not constitute a challenge
+to the ownership of that Product Identity. The owner of any Product Identity
+used in Open Game Content shall retain all rights, title and interest in and to
+that Product Identity.
+8. Identification: If you distribute Open Game Content You must clearly
+indicate which portions of the work that you are distributing are Open Game
+Content.
+9. Updating the License: Wizards or its designated Agents may publish
+updated versions of this License. You may use any authorized version of this
+License to copy, modify and distribute any Open Game Content originally
+distributed under any version of this License.
+10. Copy of this License: You MUST include a copy of this License with every
+copy of the Open Game Content You distribute.
+11. Use of Contributor Credits: You may not market or advertise the Open
+Game Content using the name of any Contributor unless You have written
+permission from the Contributor to do so.
+12. Inability to Comply: If it is impossible for You to comply with any of the
+terms of this License with respect to some or all of the Open Game Content due
+to statute, judicial order, or governmental regulation then You may not Use any
+Open Game Material so affected.
+13. Termination: This License will terminate automatically if You fail to
+comply with all terms herein and fail to cure such breach within 30 days of
+becoming aware of the breach. All sublicenses shall survive the termination of
+this License.
+14. Reformation: If any provision of this License is held to be unenforceable,
+such provision shall be reformed only to the extent necessary to make it
+enforceable.
+15. COPYRIGHT NOTICE
+Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
+System Reference Document. © 2000. Wizards of the Coast, Inc; Authors:
+Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary
+Gygax and Dave Arneson.
+Pathfinder Society Introductory Scenario: First Steps, Part I: In Service to Lore.
+© 2011, Paizo Publishing, LLC; Author: Adam Daigle.
+Pathfinder Society Introductory Scenario:
+FirstSteps,PartI:InServicetoLore
+Osirion
+Taldor
+Event
+GM # GM Character #
+GM Name
+Date
+GrandLodge
+Cheliax LanternLodge
+Andoran
+ShadowLodge
+Sczarni SilverCrusade
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+Character #
+Prestige Points
+Character Name
+GrandLodge
+Cheliax LanternLodge Osirion
+Andoran
+ShadowLodge
+Sczarni SilverCrusade Taldor
+Qadira
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695263
+1695263
+1695263
+408448
+408448
+408448
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695264
+1695264
+1695264
+408449
+408449
+408449
+paizo.com
+Paizo Publishing, LLC, the Paizo golem logo, and Pathfinder are registered trademarks of Paizo Publishing, LLC,
+and the Pathfinder Roleplaying Game is a trademark of Paizo Publishing, LLC. © 2011 Paizo Publishing, LLC.
+Seize the initiative and chop your foes to pieces with this exhaustive
+guide to the art of martial combat--an exciting new rulebook
+for the smash-hit Pathfinder Roleplaying Game, suitable for players
+and Game Masters alike! This comprehensive 256-page hardcover
+reference reveals the martial secrets of the Pathfinder RPG rules like
+never before and also introduces three new classes: the ninja, samurai,
+and gunslinger! All this plus tons of new armor and weapons, a
+complete treatment of firearms in the Pathfinder RPG, a vast array of
+martial arts, finishing moves, vehicle combat, duels, and new combat-
+oriented spells for every spellcasting class in the game!
+Coming
+August 2011!
+®
+TM
+Prepare for Glory!
+UlTImaTe
+CombaT
+UlTImaTe
+CombaT
+UlTImaTe
+CombaT
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695264
+1695264
+1695264
+408449
+408449
+408449
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695265
+1695265
+1695265
+408450
+408450
+408450
+www.paizo.com
+®
+®
+TM
+Available Now!
+Paizo Publishing, LLC, the Paizo golem logo, and Pathfinder are registered trademarks of Paizo Publishing, LLC,
+and the Pathfinder Roleplaying Game is a trademark of Paizo Publishing, LLC. © 2011 Paizo Publishing, LLC.
+The perfect world guide for Pathfinder RPG players
+and Game Masters alike, this definitive 320-page
+full-color hardcover volume contains expanded
+coverage of more than 40 nations, details on gods,
+religions, and factions, new character options,
+monsters, and more. Chart the events of your
+Pathfinder campaign with a beautiful poster map
+that reveals the lands of the Inner Sea region in all
+their treacherous glory!
+The perfect world guide for Pathfinder RPG players
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+paizo.com, lyle hayhurst <sozinsky@gmail.com>, Aug 6, 2011
+1695265
+1695265
+1695265
+408450
+408450
+408450
+Elixir of hiding (250 gp)
+Potion of invisibility (300 gp)
+Scroll of remove disease (375 gp)
+Wand of disguise self (5 charges, 75 gp)
+Wand of knock (11 charges; 990 gp)
+1
+Pathfinder Society Introductory Scenario
+First Steps, Part 1:
+In Service to Lore
+ Player Name 
+A.K.A.
+ Character Name Pathfinder Society # Faction
+ EVENT  EVENT CODE  DATE Game Master's Signature GM Pathfinder Society #
+Total
+GOLD
+Items Bought
+Items Sold
+Prestige Spent
+Final Fame
+Initial Fame
+Current Prestige
+Initial Prestige
+Final XP Total
+Fame
+EXPERIENCE
+GP Gained (GM ONLY)
+Day Job (GM ONLY)
+Prestige Gained (GM ONLY)
+XP Gained (GM ONLY)
+Start GP
+Starting XP
+Subtotal
+TOTAL VALUE OF ITEMS SOLD
+Add 1/2 this value to the "Items Sold" Box
+TOTAL COST OF ITEMS BOUGHT
+Items Found During This Scenario
+For GM Only
++
++
++
++
++
+=
+­
+­
+=
+This Chronicle Certifies That
+GM's
+Initial
+GM's
+Initial
+GM's
+Initial
+GM's
+Initial
+Has Completed This Scenario.
+­
+SUBTIER
+Items Sold / Conditions Gained Items Bought / Conditions Cleared
+Scenario Chronicle #
+MAX
+GOLD
+SUBTIER
+SUBTIER
+1
+-- 417
+Normal
+Slow

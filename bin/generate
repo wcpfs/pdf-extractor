@@ -6,19 +6,23 @@ $LOAD_PATH << File.join(File.dirname(__FILE__), '..', 'lib')
 require 'extractor'
 require 'json'
 
-if ARGV.length < 2
-  STDERR.puts "Usage: generate <output dir> <pdf file> ..."
+if ARGV.length < 1
+  STDERR.puts "Usage: generate <pdf file> ..."
   exit 1
 end
 
 
-output_dir = ARGV.shift
-extractor = Extractor.new
-indexer = Indexer.new
+output_dir = 'pdf_data'
 ARGV.each do |pdf_file|
-  new_asset_dir = extractor.extract_assets(pdf_file, output_dir)
-  if new_asset_dir
-    indexer.build_index(output_dir
-  end
+  STDERR.puts "Processing #{pdf_file}"
+  extractor = Extractor.new pdf_file, output_dir
+  STDERR.puts "Writing chronicle sheet"
+  extractor.write_chronicle
+  STDERR.puts "Writing images"
+  extractor.write_images
+  STDERR.puts "Writing statblocks"
+  extractor.write_statblocks
+  #STDERR.puts "Writing metadata"
+  #extractor.write_chronicle
+  STDERR.puts "Done"
 end
-puts extractor.metadata.to_json

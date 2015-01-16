@@ -1,46 +1,22 @@
 require 'docsplit'
 require 'fileutils'
 require 'pdfinfo'
+require 'statblocks'
+require 'json'
 
 class Extractor
   attr_reader :metadata
-  def initialize
+  def initialize(pdf_file, base_dir)
+    @info = Pdfinfo.new(pdf_file)
+    @pdf_file = pdf_file
+    @base_dir = base_dir
     @metadata = {}
   end
 
-  def extract_assets(pdf_file, base_dir)
-    info = Pdfinfo.new(pdf_file)
-    if (info.title)
-      name = File.basename(info.title, '.pdf')
-      output_dir = "#{base_dir}/#{name}"
-      if Dir.exist? output_dir
-        STDERR.puts "Skipping #{output_dir}"
-      else
-        STDERR.puts "Unpacking #{pdf_file} to #{output_dir}"
-        FileUtils.mkdir_p(output_dir)
-        extract_chronicle(pdf_file, output_dir, info.page_count)
-        extract_images(pdf_file, output_dir)
-        @metadata[name] = {
-          title: info.title,
-          filename: File.basename(pdf_file)
-        }
-      end
-      return output_dir
-    end
-    STDERR.puts "No title info for #{pdf_file}"
-  end
-
-  private
-
-  def extract_chronicle(filename, output_dir, length)
-    name = File.basename(filename, '.pdf')
-    Docsplit.extract_images(filename, size: '628x816', format: :png, pages: [length], output: output_dir)
-    FileUtils.move("#{output_dir}/#{name}_#{length}.png", "#{output_dir}/chronicle.png")
-  end
-
-  def extract_images(filename, output_dir)
-    name = File.basename(filename, '.pdf')
-    Kernel.system('pdfimages', '-j', filename, "#{output_dir}/img")
+  def write_images
+    output_dir = asset_dir('images')
+    FileUtils.mkdir_p(output_dir)
+    Kernel.system('pdfimages', '-j', @pdf_file, "#{output_dir}/img")
     Kernel.system('convert', "#{output_dir}/*.ppm", ".jpg")
     Dir.glob("#{output_dir}/*.ppm").each { |f| File.delete(f) }
     Dir.glob("#{output_dir}/*.jpg").each do |f| 
@@ -49,5 +25,39 @@ class Extractor
         File.delete(f)
       end
     end
+  end
+
+  def write_chronicle
+    name = File.basename(@pdf_file, '.pdf')
+    Docsplit.extract_images(@pdf_file, size: '628x816', format: :png, pages: [@info.page_count], output: asset_dir)
+    FileUtils.move("#{output_dir}/#{name}_#{length}.png", "#{output_dir}/chronicle.png")
+  end
+
+  def write_metadata
+    {
+      id: scenario_id,
+      title: scenario_id, #legacy
+      filename: File.basename(@pdf_file)
+    }
+  end
+
+  def write_statblocks
+    statblocks = StatBlocks.find_statblocks(pdf_text)
+    File.write(asset_dir('statblocks.json'), statblocks.to_json)
+  end
+
+  private
+
+  def pdf_text
+    raw_text = `pdftotext -nopgbrk -raw #{@pdf_file} -`.force_encoding("ASCII-8BIT")
+    raw_text.encode('UTF-8', :invalid => :replace, :undef => :replace)
+  end
+
+  def asset_dir(path='')
+    "#{@base_dir}/#{scenario_id}/#{path}"
+  end
+
+  def scenario_id
+    File.basename(@info.title, '.pdf')
   end
 end
