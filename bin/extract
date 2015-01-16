@@ -7,7 +7,7 @@ require 'extractor'
 require 'json'
 
 if ARGV.length < 1
-  STDERR.puts "Usage: generate <pdf file> ..."
+  STDERR.puts "Usage: extract <pdf file> ..."
   exit 1
 end
 

@@ -30,7 +30,7 @@ class Extractor
   def write_chronicle
     name = File.basename(@pdf_file, '.pdf')
     Docsplit.extract_images(@pdf_file, size: '628x816', format: :png, pages: [@info.page_count], output: asset_dir)
-    FileUtils.move("#{output_dir}/#{name}_#{length}.png", "#{output_dir}/chronicle.png")
+    FileUtils.move("#{asset_dir}#{name}_#{@info.page_count}.png", "#{asset_dir}/chronicle.png")
   end
 
   def write_metadata

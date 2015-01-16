@@ -43,6 +43,8 @@ describe StatBlocks do
     it "includes all available stats" do
       expect(ledford.keys).to eq(["header", "male", "ce", "init", "defense", "ac", "hp", "fort", "offense", "speed", "melee", "tactics", "morale", "base", "statistics", "str", "feats", "skills", "languages", "sq"])
     end
+
+    # Multi-word stats don't work, like 'base statistics' or 'base atk'
   end
 
   it "normalizes the text" do
