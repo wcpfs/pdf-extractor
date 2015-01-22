@@ -7,6 +7,6 @@ exec 2>&1
 for pdf in `ls Scenarios/*.pdf`; do
   dir_name=`basename "${pdf%.*}"`
   if [[ ! -d Scenarios/$dir_name ]]; then
-    bundle exec ./bin/extract -msic $pdf
+    /usr/local/bin/bundle exec ./bin/extract -msic $pdf
   fi
 done
