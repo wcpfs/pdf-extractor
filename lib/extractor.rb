@@ -56,10 +56,14 @@ class Extractor
   end
 
   def asset_dir(path='')
-    "#{@base_dir}/#{scenario_id}/#{path}"
+    "#{@base_dir}/#{scenario_name}/#{path}"
   end
 
   def scenario_id
     File.basename(@info.title, '.pdf')
+  end
+
+  def scenario_name
+    File.basename(@pdf_file, '.pdf')
   end
 end

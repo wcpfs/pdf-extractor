@@ -9,7 +9,7 @@ describe Extractor do
     }]
     expect(extractor).to receive(:pdf_text).and_return 'text'
     expect(StatBlocks).to receive(:find_statblocks).with('text').and_return(statblocks)
-    expect(File).to receive(:write).with('tmp/PZOPSSINTRO1E/statblocks.json', statblocks.to_json)
+    expect(File).to receive(:write).with('tmp/sample/statblocks.json', statblocks.to_json)
     extractor.write_statblocks
   end
 end

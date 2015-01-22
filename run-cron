@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+for pdf in `ls Scenarios/*.pdf`; do
+  if [[ ! -d `basename $pdf` ]]; then
+    ./bin/extract -msic Scenarios/$pdf
+  fi
+done

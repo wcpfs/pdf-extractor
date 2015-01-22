@@ -8,7 +8,6 @@ require 'json'
 require 'optparse'
 
 @options = {
-  :output_dir => 'pdf_data'
 }
 optparse = OptionParser.new do |opts|
   opts.banner = "Usage: extract [options] <pdf file> ..."
@@ -37,7 +36,8 @@ optparse.parse!
 ARGV.each do |pdf_file|
   if File.exist? pdf_file
     STDERR.puts "Processing #{pdf_file}"
-    extractor = Extractor.new pdf_file, @options[:output_dir]
+    output_dir = @options[:output_dir] || File.dirname(pdf_file)
+    extractor = Extractor.new pdf_file, output_dir
     if @options[:chronicle]
       STDERR.puts "Writing chronicle sheet"
       extractor.write_chronicle

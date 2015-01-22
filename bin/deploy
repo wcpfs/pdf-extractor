@@ -5,10 +5,11 @@ bin_dir=`dirname $abspath`
 root_dir=`dirname $bin_dir`
 app_name=`basename $root_dir`
 
-defaults="--acl-public --exclude=.DS_Store"
-bucket=s3://assets.windycitypathfinder.com
-cd $root_dir
+server=${1:-www.windycitypathfinder.com}
 
-echo "Deploying site to $bucket"
-s3cmd sync --no-preserve $defaults gm_prep/* $bucket/gm_prep/
-s3cmd sync --no-preserve $defaults gm_prep.json $bucket/
+if [[ ! -n $(git status --porcelain) ]]; then
+  echo "Deploying to $server"
+  git push $server:git/$app_name.git master
+else
+  git status
+fi
