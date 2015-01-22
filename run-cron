@@ -3,8 +3,10 @@
 abspath=$(readlink -e $(dirname $0))
 cd $abspath
 
+exec 2>&1
 for pdf in `ls Scenarios/*.pdf`; do
-  if [[ ! -d `basename $pdf` ]]; then
-    ./bin/extract -msic $pdf
+  dir_name=`basename "${pdf%.*}"`
+  if [[ ! -d Scenarios/$dir_name ]]; then
+    echo bundle exec ./bin/extract -msic $pdf
   fi
 done
