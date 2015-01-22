@@ -5,6 +5,6 @@ cd $abspath
 
 for pdf in `ls Scenarios/*.pdf`; do
   if [[ ! -d `basename $pdf` ]]; then
-    ./bin/extract -msic Scenarios/$pdf
+    ./bin/extract -msic $pdf
   fi
 done

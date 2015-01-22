@@ -42,7 +42,6 @@ GIT_WORK_TREE=~/cron/$app_name git checkout -f
 git tag -a \`date "+%Y-%m-%d_%H%M%S"\` -m "Tag created by deploy script"
 cd ~/cron/$app_name
 bundle install
-/usr/bin/svc -t ~/cron/$app_name
 DOC
 
 ssh $server <<DOC
