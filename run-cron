@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+abspath=$(readlink -e $(dirname $0))
+cd $abspath
+
 for pdf in `ls Scenarios/*.pdf`; do
   if [[ ! -d `basename $pdf` ]]; then
     ./bin/extract -msic Scenarios/$pdf
