@@ -4,5 +4,5 @@
 assets.json
 pdf_data
 Scenarios
-testdata/sample
+testdata/*
 tags
