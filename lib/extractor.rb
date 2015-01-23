@@ -4,11 +4,25 @@ require 'pdfinfo'
 require 'statblocks'
 require 'json'
 
+#encoding: UTF-16
+
 class Extractor
+  UTF_FALLBACK = {
+    "\xAD" => "+",
+    "\xD7" => "x",
+    "\xB7" => "?",
+    "\xAE" => "*",
+    "\xA9" => "c",
+    "\xE9" => "e"
+  }
   def initialize(pdf_file, base_dir)
     @info = Pdfinfo.new(pdf_file)
     @pdf_file = pdf_file
     @base_dir = base_dir
+  end
+
+  def create_dir
+    FileUtils.mkdir_p(asset_dir)
   end
 
   def write_images
@@ -45,14 +59,18 @@ class Extractor
 
   def write_statblocks
     statblocks = StatBlocks.find_statblocks(pdf_text)
-    File.write(asset_dir('statblocks.json'), statblocks.to_json)
+    File.open(asset_dir('statblocks.txt'), 'w') do |f|
+      statblocks.each do |statblock|
+        f.write(statblock.print)
+      end
+    end
   end
 
   private
 
   def pdf_text
     raw_text = `pdftotext -nopgbrk -raw #{@pdf_file} -`.force_encoding("ASCII-8BIT")
-    raw_text.encode('UTF-8', :invalid => :replace, :undef => :replace)
+    raw_text.encode('UTF-8', :invalid => :replace, :fallback => UTF_FALLBACK)
   end
 
   def asset_dir(path='')

@@ -38,6 +38,7 @@ ARGV.each do |pdf_file|
     STDERR.puts "Processing #{pdf_file}"
     output_dir = @options[:output_dir] || File.dirname(pdf_file)
     extractor = Extractor.new pdf_file, output_dir
+    extractor.create_dir
     if @options[:chronicle]
       STDERR.puts "Writing chronicle sheet"
       extractor.write_chronicle

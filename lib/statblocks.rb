@@ -1,3 +1,43 @@
+require 'stringio'
+
+class StatBlock
+  attr_reader :header
+  def initialize(header)
+    @header = header
+    @stats = []
+  end
+
+  def add(name, stat)
+    @stats << {:name => name, :content => stat}
+  end
+
+  def append(name, new_content)
+    stat = @stats.find {|s| s[:name] == name }
+    if stat
+      stat[:content] += " " + new_content
+    end
+  end
+
+  def print
+    s = StringIO.new
+    s.puts @header
+    @stats.each do |stat|
+      s.puts stat[:content]
+    end
+    s.puts "\n"
+    s.string
+  end
+
+  def stats
+    @stats.map { |s| s[:name] }
+  end
+
+  def find(name)
+    stat = @stats.find {|s| s[:name] == name }
+    stat[:content] if stat
+  end
+end
+
 class StatBlocks
   def self.find_statblocks(pdf_text)
     lines = self.normalize(pdf_text)
@@ -38,25 +78,22 @@ class StatBlocks
   end
 
   def self.parse_statblock(chunk)
-    statblock = {"header" => chunk[0]}
+    statblock = StatBlock.new(chunk[0])
     current_stat = nil
     chunk[1..-1].each do |line|
       keyword, stats = parse_line(line)
       if keyword 
         stats ||= ""
         if KNOWN_STATBLOCK_WORDS.include? keyword
-          statblock[keyword] = stats
+          statblock.add(keyword, stats)
           current_stat = keyword
         else
           if current_stat
-            statblock[current_stat] += " " + stats
+            statblock.append(current_stat, stats)
           end
         end
       end
     end
-    #walk through the lines
-    #When you encounter a statblock word, take lines until you encounter another statblock word, or the end of the chunk
-    #Take all previous lines and join them to make a statblock entry
     statblock
   end
 
