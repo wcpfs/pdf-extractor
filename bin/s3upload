@@ -10,5 +10,4 @@ bucket=s3://assets.windycitypathfinder.com
 cd $root_dir
 
 echo "Deploying site to $bucket"
-s3cmd sync --no-preserve $defaults gm_prep/* $bucket/gm_prep/
-s3cmd sync --no-preserve $defaults gm_prep.json $bucket/
+s3cmd sync --no-preserve $defaults Assets/* $bucket/
