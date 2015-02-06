@@ -3,10 +3,17 @@
 abspath=$(readlink -e $(dirname $0))
 cd $abspath
 
+options=${1:-"mic"}
+
+bundle=`which bundle`
+if [[ ! -x $bundle ]]; then
+  bundle=/user/local/bin/bundle
+fi
+
 exec 2>&1
 for pdf in `ls Scenarios/*.pdf`; do
   dir_name=`basename "${pdf%.*}"`
   if [[ ! -d Scenarios/$dir_name ]]; then
-    /usr/local/bin/bundle exec ./bin/extract -ic $pdf
+    $bundle exec ./bin/extract -$options $pdf
   fi
 done

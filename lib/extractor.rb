@@ -13,7 +13,8 @@ class Extractor
     "\xB7" => "?",
     "\xAE" => "*",
     "\xA9" => "c",
-    "\xE9" => "e"
+    "\xE9" => "e",
+    "\xB0" => "*"
   }
   def initialize(pdf_file, base_dir)
     @info = Pdfinfo.new(pdf_file)
@@ -46,14 +47,17 @@ class Extractor
   end
 
   def write_metadata
-    File.write(asset_dir('metadata.json'), metadata.to_json)
+    File.write(asset_dir('metadata.json'), metadata.to_json + "\n")
   end
 
   def metadata
+    lines = pdf_text.split("\n")
     {
       id: scenario_id,
-      filename: File.basename(@pdf_file),
-      pdf_info: @info.to_hash
+      :author => lines[8],
+      :name => lines[9],
+      :description => lines[10],
+      :filename => File.basename(@pdf_file)
     }
   end
 
@@ -69,8 +73,10 @@ class Extractor
   private
 
   def pdf_text
-    raw_text = `pdftotext -nopgbrk -raw #{@pdf_file} -`.force_encoding("ASCII-8BIT")
-    raw_text.encode('UTF-8', :invalid => :replace, :fallback => UTF_FALLBACK)
+    if @pdf_text.nil?
+      raw_text = `pdftotext -nopgbrk -raw #{@pdf_file} -`.force_encoding("ASCII-8BIT")
+      @pdf_text = raw_text.encode('UTF-8', :invalid => :replace, :fallback => UTF_FALLBACK)
+    end
   end
 
   def asset_dir(path='')
