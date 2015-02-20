@@ -7,7 +7,7 @@ options=${1:-"mic"}
 
 bundle=`which bundle`
 if [[ ! -x $bundle ]]; then
-  bundle=/user/local/bin/bundle
+  bundle=/usr/local/bin/bundle
 fi
 
 exec 2>&1
